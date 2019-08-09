@@ -1,0 +1,1 @@
+Quelques notes prises au cours de l'apprentissage du Japonais.
