@@ -1,29 +1,34 @@
 # Espace
 
-- Droite : みぎ
-- Gauche : 
-
+- Droite : 右、みぎ
+- Gauche : 左、ひだり
 - Ici : ここ
-- Là-bas : asoko
+- Là-bas : あそこ
 - À côté : 隣, tonari
-
 - Entrée : うりぐち
-- Sortie : でぐち
-
-- Carte, plan : ちず
-
-- Proche, situé à proximité: ちかい
+- Sortie : 出口、でぐち
+- Carte, plan : 地図、ちず
+- Proche, situé à proximité: 近い、ちかい
 
 ##  Points cardinaux
 
-- Nord : きた
-- Est : higashi
-- Sud : minami
-- Ouest : にし
+- Nord : 北、きた
+- Est : 東、ひがし
+- Sud : 南、みなみ
+- Ouest : 西、にし
+
+## Pays
+
+- Japon : 日本
+- France : フランス
+- Chine : 中国
+- Corée : 韓国
+- USA : アメリカ
+- Angleterre : イギリス
 
 ## Ceci, cela
 
-### kore, sore, are
+### kore, sore, are (Démonstratifs)
 
 kore wa kami desu  
 C' (proche de moi, de celui qui parle) est un papier
@@ -38,6 +43,9 @@ are wa ki desu
 C' (là-bas, au loin) est un arbre
 
 ## kono, sono, ano
+
+doko desu ka  
+où est-ce ?
 
 kono kami wa shiroi desu  
 Ce papier (proche de moi) est blanc

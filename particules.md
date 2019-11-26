@@ -1,6 +1,7 @@
 # Particules
 
 - Sujet : は
+- Aussi-sujet : も
 - Objet : が
 - Lieu : で
 - Lieu : に

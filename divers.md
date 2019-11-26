@@ -1,95 +1,58 @@
 # Divers
 
-## Liens
-
-- https://doc.ubuntu-fr.org/japonais
-- https://doc.ubuntu-fr.org/goldendict + https://freedict.org/downloads/#dictionary-downloads
-- https://doc.ubuntu-fr.org/tutoriel/installer_la_saisie_en_japonais#installation_avec_gnome
-- http://kanji.free.fr/
-- http://nippongo.free.fr/hiragana25.html
-- https://fr.wikibooks.org/wiki/Japonais
-- http://www.ici-japon.com/forum/viewtopic.php?t=382
-- https://fr.wikipedia.org/wiki/Gakunenbetsu_kanji_hait%C5%8Dhy%C5%8D
-- [Conseils pour lire des livres en japonais](https://ameliemarieintokyo.com/lire-livres-en-japonais/)
-- [Nhk lessons](https://www.nhk.or.jp/lesson/french/learn/list/)
-
-Divers
-
-- Oui : はい
-- Non : いいえ
-- Mais : でも
-
-- S'il vous plait : kudasai
-- Merci : ありがとう
-- Merci beaucoup : どもありがとう
-- Pardon : すみません
-- Je vous en prie : どうぞ
-
-- Enchanté : はじめまして
-- Bonjour (le matin) : おはよう
-- Bonjour (l'après-midi) : こんにちは
-- Bonsoir : こんばは
-- Bonne nuit : おやすみなさい
-- Au revoir : さようなら
-
-- comment allez-vous ? : おげんきですか
-- Bien : げんきです
-
-- Quel est votre nom ? : おなまえはなんですか
-
-- Bon appétit : いただきます
-- À votre santé : かんぱい
-- Encore : もう一度 お願いします, mouichido onegai shimasu
-
-- Quoi ? : なに
-- Qu'est-ce que c'est ? : なんですか
-- Où est-ce ? : どこですか
-
-- Attendez un peu s'il vous plait : Chotto matte kudasai
-
-## Noms
-
-- Amour : あい
-- Argent, monnaie : かね
-- Amoureux(se) : ごいびと
-- clé : かぎ
-- Dessin, peinture, tableau : え
-- Film : えいが
-- Le Japon : にほん
-- Personne, être humain : ひと
-- Librairie : ほんや (le suffixe や est pour les magasins : ぴざや, etc...)
-- Maison (ma maison) : うち
-- Maison, maisonnée, famille : いえ
-- Médecin : いしゃ
-- Nom : なまえ
+- Amour : 愛、あい
+- Argent, monnaie : 金、かね
+- Chaise : 椅子、いす
+- Clé : 鍵、かぎ
+- Montre : 時計、とけい
+- Parapluie : 傘、かさ
+- Sac : 鞄、かばん
 - Sourire : にこにこ
-- WC : トイレ
-- Tout, total, en entier : ぜんぶ
-- Village : むら
+- Table : 机、つくえ
+- Tout, total, en entier : 全部、ぜんぶ
 
-Transports
+## Culture
 
-- Aéroport : くうこお
-- Métro : ちかてつ
+- Appareil photo : カメラ
+- Dessin, peinture, tableau : 絵、え
+- Dictionnaire : 辞書
+- Disque : レコード
+- Film : 映画、えいが
+- Journal : 新聞、しんぶん
+- Lettre : 手紙、てがみ
+- Livre : 本、ほん
+- Magazine : 雑誌、ざっし
+- Ordinateur : パソコン
+- Photo : 写真、しゃしん
+- Radio : ラジオ
+- Télé : テレビ
+
+## Lieux
+
+- Bibliothèque : 図書館、としょかん
+- Bureau (pièce) : 事務室、じむしつ
+- Cinéma : 映画館、えいがかん
+- École : 学校、がっこう
+- Immeuble : 建物、たてもの
+- Musée, Galerie : 美術館、びじゅつかん
+- WC : トイレ ou お手洗い、おてあらい
+- Librairie : 本屋、ほんや
+- Maison (ma maison) : 家、うち
+- Maison, maisonnée, famille : 家、いえ
+- Salle de classe : 教室、きょうしつ
+- Salle de réunion : 会議室、かいぎしつ
+- Ville : 都市、とし
+- Village : 村、むら
+
+## Transports
+
+- Aéroport : 空港、くうこお
+- Avion : 飛行機、ひこうき
+- Bateau : 船、ふね
+- Gare : 駅、えき
+- Métro : 地下鉄、ちかてつ
 - Shinkansen : しんかんせん
-
-## Possession
-
-kore wa watashi-no desu  
-C'est à moi
-
-kore wa watashi-no pen desu  
-C'est mon stylo
-
-watashi-no wa kawaii desu  
-Le mien est mignon
-
-Sakura-no wa taka-i desu  
-(Je parle à Sakura) Le tien est cher  
-On utilise pas anata
-
-kore wa hana no e desu  
-C'est un dessin de fleur
-
-kore wa watashi no inu no shashin desu  
-C'est une photo de mon chien
+- Train : 電車、でんしゃ
+- Véhicule : 車、くるま
+- Vélo : 自転車、じてんしゃ
+- Voiture : 自動車、じどうしゃ
