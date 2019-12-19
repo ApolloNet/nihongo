@@ -2,6 +2,8 @@
 
 ## Pronoms
 
+À compléter avec [cette vidéo](https://www.youtube.com/watch?v=yBlk1HD6sjc)
+
 - Je : 私、わたし
 - Je (homme) :　僕、ぼく
 - Tu : あなた
