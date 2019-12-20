@@ -14,3 +14,4 @@
 * [What does the 'nasai' at the end of some Japanese words mean?](https://answers.yahoo.com/question/index?qid=20100110113011AAWz6sH&guccounter=1)
 * [Renshuu](https://www.renshuu.org/)
 * [italki](https://www.italki.com/teachers/japanese?speaks%5B0%5D=french&teacher_type=pro)
+* [Citations](http://www.guidetojapanese.org/french/quotation.html)
