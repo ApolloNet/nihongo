@@ -7,6 +7,10 @@ Les mots à 2 kanjis ou plus sont prononcés en lecture sino-japonaise (onyomi) 
 
 - Cygne : 白鳥, はくちょう
 
+Il y a des exceptions : les mots présents dans la langue japonaise avant arrivée des caractères chinois :
+
+- Fils : 息子, むすこ
+
 Sur certains mots, le 1er kana du 2e kanji est accentué :
 
 - Volcan : 火山, かざん (et non かさん)
