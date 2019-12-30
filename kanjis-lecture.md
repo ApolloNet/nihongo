@@ -3,6 +3,11 @@ Les mots à 1 kanji sont prononcés selon la lecture purement japonaise (kunyomi
 - 白 : しろ
 - 鳥 : とり
 
+Aussi en lecture purement japonaise en présence d'[okurigana](https://fr.wikipedia.org/wiki/Okurigana) :
+
+- 短い : みじかい
+- 食べる : たべる
+
 Les mots à 2 kanjis ou plus sont prononcés en lecture sino-japonaise (onyomi) :
 
 - Cygne : 白鳥, はくちょう
