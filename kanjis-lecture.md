@@ -32,6 +32,8 @@ Sur certains mots, les 2 règles précédentes sont appliquées :
 
 ## Cas particuliers
 
+Les noms de famille ont généralement 2 kanjis mais sont lu en kunyomi.
+
 Le concept était déjà composé avant l'arrivée des kanjis au Japon :
 
 - Prénom : 名前, なまえ
