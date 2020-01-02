@@ -30,7 +30,7 @@
 
 ### Couleurs utilisées comme adjectifs
 
-Les 6 couleurs qui peuvent être utilisées comme adjectifs avec い à la fin :
+Les couleurs qui peuvent être utilisées comme adjectifs avec い à la fin :
 
 - Bleu (et vert et gris) : 青, あお
 - Rouge : 赤, あか
@@ -48,6 +48,11 @@ Exemple : みどり の ねこ = chat vert
 - Rose : ピンク
 - Orange : オレンジ
 - Violet : 紫, むらさき
+- Gris : 灰色, はいいろ (灰, はい = cendres)
+- Cramoisi : 紅, くれない
+- Bleu clair : 水色, みずいろ
+- Couleur arc-en-ciel : 虹色, にじいろ (虹, にじ = arc-en-ciel)
+- Or : 金色, きんいろ
 
 ## Adjectifs en I et en NA
 
