@@ -16,11 +16,11 @@
 
 ## Divers
 
-- Amoureux(se) : 恋人、こいびと
 - Nom : 名前、なまえ
 - (une) Personne : 人、ひと
 - Qui ? 誰、だれ
-
+- Amoureux(se) : 恋人、こいびと
+- Ami : 友達, ともだち (suffixe だち mais utilisé pour singulier aussi) ou 友人, ゆうじん
 
 ## Famille
 
