@@ -26,6 +26,22 @@
 - USA : アメリカ
 - Angleterre : イギリス
 
+## Système solaire
+
+Regarde le lien aves les jours de la semaine :)
+
+- Soleil : 太陽, たいよう (日, ひ = le soleil vu d'ici, pas l'astre)
+- Lune : 月, つき
+- Mars : 火星, かせい
+- Mercure : 水星, すいせい
+- Jupiter : 木星, もくせい
+- Venus : 金星, きんせい
+- Saturne : 土星, どせい
+- Uranus : 天王星, てんのうせい
+- Neptune : 海王星, かいおうせい
+- Pluton : 冥王星, めいおうせい
+- Terre : 地球, ちきゅう
+
 ## Ceci, cela
 
 ### kore, sore, are (Démonstratifs)
