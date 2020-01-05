@@ -16,19 +16,19 @@
 
 ## Divers
 
+- Qui ? 誰、だれ
 - Nom : 名前、なまえ
 - (une) Personne : 人、ひと
-- Qui ? 誰、だれ
-- Amoureux(se) : 恋人、こいびと
-- Ami : 友達, ともだち (suffixe だち mais utilisé pour singulier aussi) ou 友人, ゆうじん
-
-## Famille
-
 - Femme : 女の人、おんなのひと
 - Homme : 男の人、おとこのひと
 - Enfant : 子供、こども
 - Fille : 女の子
 - Garçon : 男の子
+- Amoureux(se) : 恋人、こいびと
+- Ami : 友達, ともだち (suffixe だち mais utilisé pour singulier aussi) ou 友人, ゆうじん
+
+## Famille
+
 - Épouse : 妻、つま
 - Femme mariée, Madame : 奥さん、おくさん
 - Mari : 夫、おっと
