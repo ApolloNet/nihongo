@@ -3,6 +3,7 @@
 - Oui : はい、そうです
 - Non : いいえ、ちがいます
 - Mais : でも
+- D'accord : 了解, りょうかい
 
 - S'il vous plait : kudasai
 - Merci : ありがとう
