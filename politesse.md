@@ -25,10 +25,10 @@
 
 - Bon appétit : いただきます
 - À votre santé : かんぱい
-- Encore : もう一度 お願いします, mouichido onegai shimasu
+- Encore : もう一度 お願いします,　mouichido onegai shimasu
 
 - Quoi ? : なに
 - Qu'est-ce que c'est ? : なんですか
 - Où est-ce ? : どこですか
 
-- Attendez un peu s'il vous plait : Chotto matte kudasai
+- Attendez un peu s'il vous plait : ちょっと待ってください
