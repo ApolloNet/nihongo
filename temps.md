@@ -37,9 +37,7 @@
 - Le mois dernier : 先月, せんげつ
 - Le mois prochain : 来月, らいげつ
 
-Les mois
-
-Aussi souvent écrits en arabiasûji : １月、２月…
+### Les mois
 
 - Janvier : 一月、いちがつ
 - Février : 二月、にがつ
@@ -53,6 +51,11 @@ Aussi souvent écrits en arabiasûji : １月、２月…
 - Octobre : 十月、じゅうがつ
 - Novembre : 十一月、じゅういちがつ
 - Décembre : 十二月、じゅうにがつ
+
+Deux remarques :
+
+- Ils sont aussi souvent écrits en arabiasûji : １月、２月…
+- Il existe aussi des noms traditionnels purement japonais...
 
 ## Année
 
