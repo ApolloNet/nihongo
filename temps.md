@@ -37,6 +37,23 @@
 - Le mois dernier : 先月, せんげつ
 - Le mois prochain : 来月, らいげつ
 
+Les mois
+
+Aussi souvent écrits en arabiasûji : １月、２月…
+
+- Janvier : 一月、いちがつ
+- Février : 二月、にがつ
+- Mars : 三月、さんがつ
+- Avril : 四月、しがつ　(し et pas よん)
+- Mai : 五月、ごがつ
+- Juin : 六月、ろくがつ
+- Juillet : 七月、しちがつ (しち et pas なな)
+- Août : 八月、はちがつ
+- Septembre : 九月、くがつ (く et pas きゅう)
+- Octobre : 十月、じゅうがつ
+- Novembre : 十一月、じゅういちがつ
+- Décembre : 十二月、じゅうにがつ
+
 ## Année
 
 - Cette année : 今年, ことし
