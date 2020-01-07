@@ -19,6 +19,28 @@ On compte en paquet de 4, et pas 3 !
 - 10 000 = 1 0000 : 万、まん
 - 100 000 000 = 1 0000 0000 : 億, おく
 
+## Et aussi...
+
+Les chiffres après la virgule sont lus un par un sans 十, 百, 百...  
+La virgule se lit てん.
+
+- 23,52 : 二十三　てん　五二
+
+On trouve parfois des nombres écrits en kanji comme en chiffres arabes.  
+Mais on garde la lecture habituelle.
+
+- 23 : 二三
+- 204 : 二〇四
+
+Sur les documents légaux, on utilise d'autres kanjis.  
+Par exemple, sur les billets de banque.  
+En voici quelques-uns :
+
+- 一 : 壱
+- 二 : 弐
+- 三 : 参
+- 十 : 拾
+
 ## Classificateurs
 
 TODO
