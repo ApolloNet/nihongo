@@ -12,8 +12,12 @@
 - 9 : 九、きゅう　(plutôt que く, parce que 苦)
 - 10 : 十、じゅう
 - 100 : 百、ひゃく
-- 1 000 : 千、せん
-- 10 000 : 万、まん
+- 1 000 : 千、せん (一千、ひっせん n'est pas correct mais ça s'entend) 
+
+On compte en paquet de 4, et pas 3 !
+
+- 10 000 = 1 0000 : 万、まん
+- 100 000 000 = 1 0000 0000 : 億, おく
 
 ## Classificateurs
 
