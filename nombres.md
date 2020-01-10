@@ -1,5 +1,7 @@
 # Nombres
 
+Lectures sino-japonaises.
+
 - 0 : 零, れい　ou　〇,　ゼロ
 - 1 : 一、いち
 - 2 : 二、に
@@ -40,6 +42,21 @@ En voici quelques-uns :
 - 二 : 弐
 - 三 : 参
 - 十 : 拾
+
+## Lectures purement japonaises
+
+Utilisées pour les classificateurs.
+
+- 1 : 一、ひと
+- 2 : 二、ふた
+- 3 : 三、み
+- 4 : 四、よ
+- 5 : 五、いつ
+- 6 : 六、む
+- 7 :　七、なな
+- 8 : 八、や
+- 9 : 九、ここの
+- 10 : 十、とお
 
 ## Classificateurs
 
