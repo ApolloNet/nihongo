@@ -25,6 +25,10 @@
 - Demain : 明日, あした
 - Après-demain : 明後日, あさって
 
+### Numéro des jours
+
+https://youtu.be/405O5Y32cr0?t=429
+
 ## Semaine
 
 - Cette semaine : 今週, こんしゅう
