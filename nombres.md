@@ -57,6 +57,7 @@ Utilisées pour les classificateurs.
 - 8 : 八、や
 - 9 : 九、ここの
 - 10 : 十、とお
+- 20 : はた
 
 ## Classificateurs
 
