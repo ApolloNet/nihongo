@@ -4,10 +4,22 @@
 
 - [Quand : toki, to, tara, itsu](https://guidedujaponais.fr/expressions/quand-en-japonais-toki-to-tara-itsu-en-japonais/)
 
+## Divers
+
+- De temps en temps : 時々、ときどき
+
 ## Heures
 
 - Du matin : 午前, ごぜん
 - De l'après-midi : 午後, ごご
+- Heure : 時、じ
+- Minute : 分、フン ou プン
+- Seconde : 秒、ビョウ
+- Et demi : 半、はん
+- Midi : 正午、しょうご
+- Minuit : 真夜中、まよなか
+- 9 heure moins 10 : 九時十分前, くじじゅっぷんまえ (avec 前)
+- Le prolongement du jour peut s'indiquer comme "ferme à 27h" pour "ferme à 3h le lendemain" (jusqu'à 30)
 
 ## Moments
 
