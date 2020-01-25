@@ -41,6 +41,8 @@ Regarde le lien aves les jours de la semaine :)
 - Neptune : 海王星, かいおうせい
 - Pluton : 冥王星, めいおうせい
 - Terre : 地球, ちきゅう
+- Étoile : 星、ほし
+- Étoile filante : 流れ星、ながれぼし
 
 ## Ceci, cela
 
