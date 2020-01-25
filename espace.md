@@ -43,6 +43,7 @@ Regarde le lien aves les jours de la semaine :)
 - Terre : 地球, ちきゅう
 - Étoile : 星、ほし
 - Étoile filante : 流れ星、ながれぼし
+- Météore : 流星, リュウセイ
 
 ## Ceci, cela
 
