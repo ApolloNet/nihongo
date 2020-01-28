@@ -33,6 +33,7 @@
 - Bureau (pièce) : 事務室、じむしつ
 - Cinéma : 映画館、えいがかん
 - École : 学校、がっこう
+- Fontaine : 泉、いずみ
 - Immeuble : 建物、たてもの
 - Musée, Galerie : 美術館、びじゅつかん
 - WC : トイレ ou お手洗い、おてあらい
