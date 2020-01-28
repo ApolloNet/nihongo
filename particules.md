@@ -8,8 +8,8 @@
 - Moyen : で
 - Direction : へ
 - Possesion, relation : の
-- Et / avec (nombre connu) : と
-- Et / avec (nombre inconnu) : や
+- Et / avec (énumération pas forcément exhaustive mais quand-meme) : と
+- Et / avec (énumération non-exhaustive) : や
 - Complément d'objet : を
 - Depuis : から
 - Vers : まで
