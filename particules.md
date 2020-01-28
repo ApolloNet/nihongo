@@ -1,8 +1,8 @@
 # Particules
 
-- Sujet : は
+- Thème de la phrase (ce n'est pas le sujet du verbe) : は
 - Aussi-sujet : も
-- Objet : が
+- Sujet du verbe : が
 - Lieu : で
 - Lieu : に
 - Moyen : で
