@@ -1,6 +1,6 @@
 # Particules
 
-- Thème de la phrase (ce n'est pas le sujet du verbe) : は
+- Thème de la phrase (et des phrases suivantes si omission) (ce n'est pas le sujet du verbe) : は
 - Aussi-sujet : も
 - Sujet du verbe : が
 - Lieu : で
