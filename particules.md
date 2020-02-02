@@ -3,8 +3,8 @@
 - Thème de la phrase (et des phrases suivantes si omission) (ce n'est pas le sujet du verbe) : は
 - Aussi-sujet : も
 - Sujet du verbe : が
-- Lieu (dans lequel il ne se passe rien) : に
-- Lieu : で
+- Lieu (dans lequel il ne se passe rien / avec verbe de présence : いる　et ある) : に
+- Lieu (dans lequel il se passe une action / avec verbe d'action) : で
 - Moyen : で
 - Direction : へ
 - Possesion, relation : の
