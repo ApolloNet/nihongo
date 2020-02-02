@@ -7,6 +7,9 @@
 - Lieu (dans lequel il se passe une action / avec verbe d'action) : で
 - Moyen : で
 - Direction : へ
+  - レストランへ行く : aller en direction du restaurant
+- Point d'arrivée : に　(on utilise plus に que へ en fait du coup donc)
+  - レストランに行く : aller au restaurant
 - Possesion, relation : の
 - Et / avec (énumération pas forcément exhaustive mais quand-meme) : と
 - Et / avec (énumération non-exhaustive) : や
