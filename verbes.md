@@ -4,12 +4,14 @@
 
 - Acheter : 買う、かう
 - Aller : 行く、いく
+- Avancer, progresser : 進む、すすむ
 - Boire : 飲む、のむ
 - Comprendre : 分かる、わかる
 - Continuer, se poursuivre :　続く、つづく
 - Détester :　嫌い、きらい です
 - Devenir : 成る、なる
 - Dire : 言う、いう
+- Se diriger vers : 向かう、むかう
 - Dormir : 寝る、ねる (en fait, c'est "être couché", il y a un autre verbe pour "someiller"...)
 - Écrire : 書く、かく
 - Écouter : 聞く、きく
@@ -28,6 +30,8 @@
 - Pousser : 押す、おす
 - Regarder : 見る、みる
 - Rencontrer : 合う、あう
+- Rentrer chez soi : 帰る、かえる
+- Revenir, retourner : 戻る、もどる
 - Savoir : 知る、しる
 - Venir : 来る、くる
 - Voler, dérober : 盗む、ぬすむ
