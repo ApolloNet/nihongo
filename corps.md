@@ -16,19 +16,19 @@
 
 ## Vêtements
 
-- Chemise : シャツ
-- T-shirt : Ｔシャツ
-- Pull-over : セーター
-- Veste : ジャケット
-- Pantalon : ズボン
-- Jeans : ジーンズ
 - Ceinture : ベルト
+- Chapeau : 帽子、ボウシ
 - Chaussure : 靴、くつ
 - Chausette : 靴下、くつした
+- Chemise : シャツ
+- Cravate : ネクタイ
+- Gant : 手袋、てぶくろ
+- Jeans : ジーンズ
 - Jupe : スカート
+- Manteau : コート
+- Pantalon : ズボン
+- Pull-over : セーター
 - Robe : ドレス
 - Survêtement: トレーニングウェア (ウェ = wé)
-- Manteau : コート
-- Chapeau : 帽子、ボウシ
-- Gant : 手袋、てぶくろ
-- Cravate : ネクタイ
+- T-shirt : Ｔシャツ
+- Veste : ジャケット
