@@ -4,21 +4,32 @@
 
 - Acheter : 買う、かう
 - Aller : 行く、いく
+- Boire : 飲む、のむ
+- Comprendre : 分かる、わかる
 - Continuer, se poursuivre :　続く、つづく
-- Détester :　嫌い、きらい
+- Détester :　嫌い、きらい です
+- Devenir : 成る、なる
 - Dire : 言う、いう
+- Dormir : 寝る、ねる (en fait, c'est "être couché", il y a un autre verbe pour "someiller"...)
 - Écrire : 書く、かく
 - Écouter : 聞く、きく
 - Être (vivant et animé) : いる
 - Être (non vivant ou inanimé) : ある
+- Faire : する
 - Imaginer : 想像する、そうぞうする
-- Lire :　読む、のむ
+- Se lever, se mettre debout : 立つ、たつ
+- Lire :　読む、よむ
+- Manger : 食べる、たべる
+- Marcher :　歩く、あるく
 - Mourir : 死ぬ、しぬ
 - Parler :　話す、はなす
+- Penser : 思う、おもう
 - Poser, mettre : 置く、おく
 - Pousser : 押す、おす
+- Regarder : 見る、みる
 - Rencontrer : 合う、あう
-- Se lever, se mettre debout : 立つ、たつ
+- Savoir : 知る、しる
+- Venir : 来る、くる
 - Voler, dérober : 盗む、ぬすむ
 
 ## Les 3 groupes
