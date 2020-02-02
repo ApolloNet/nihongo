@@ -27,8 +27,10 @@
 - Jupe : スカート
 - Manteau : コート
 - Pantalon : ズボン
+- Parapluie : 傘、かさ
 - Pull-over : セーター
 - Robe : ドレス
+- Sac : 鞄、かばん
 - Survêtement: トレーニングウェア (ウェ = wé)
 - T-shirt : Ｔシャツ
 - Veste : ジャケット
