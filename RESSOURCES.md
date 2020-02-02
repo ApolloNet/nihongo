@@ -15,7 +15,8 @@
 - [Renshuu](https://www.renshuu.org/)
 - [italki](https://www.italki.com/teachers/japanese?speaks%5B0%5D=french&teacher_type=pro)
 - [Citations](http://www.guidetojapanese.org/french/quotation.html)
-- [Intonation](https://www.youtube.com/watch?v=2BDme2oebH8)
+- [La bonne intonation des mots japonais](https://www.youtube.com/watch?v=2BDme2oebH8)
+- [accent.u-biq.org](https://accent.u-biq.org/) : dictionnaire des intonations
 
 ## Clavier japonais avec Ubuntu
 
