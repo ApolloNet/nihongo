@@ -26,6 +26,7 @@
 - Poste de police : 交番、コウバン
   - Commissariat de police : 警察署、ケイサツショ
 - Restaurant : レストラン
+- Source chaude : 温泉、オンセン
 - Stade : スタジアム
 - Temple bouddhiste : 寺、てら
 - Temple shinto : 神社、ジンジャ
