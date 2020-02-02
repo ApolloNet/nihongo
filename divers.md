@@ -3,6 +3,8 @@
 - Amour : 愛、あい
 - Argent, monnaie : 金、かね
 - Clé : 鍵、かぎ
+- Étincelle : 火花、ひばな
+- Feu d'artifice : 花火、はなび
 - Montre : 時計、とけい
 - Rêve : 夢、ゆめ
 - Sourire : にこにこ
