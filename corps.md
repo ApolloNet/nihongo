@@ -16,6 +16,7 @@
 
 ## Vêtements
 
+- Bague : 指輪、ゆびわ
 - Ceinture : ベルト
 - Chapeau : 帽子、ボウシ
 - Chaussure : 靴、くつ
