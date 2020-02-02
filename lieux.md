@@ -47,15 +47,23 @@
 - Chaise : 椅子、いす
 - Table : 机、つくえ
 
-## Transports
+## Transport
 
-- Avion : 飛行機、ひこうき
+- Ambulance : 救急車、キュキュシャ
+- Avion : 飛行機、ヒコウキ
 - Bateau : 船、ふね
+  - Cargo : 貨物船、カモツセン (avec 貨物、カモツ : cargaison, comme dans camion)
 - Bus : バス
-- Métro : 地下鉄、ちかてつ
-- Shinkansen : しんかんせん
+- Camion : トラック ou 貨物自動車、カモツジドウシャ
+- Hélicoptère : ヘリコプター
+- Métro : 地下鉄、チカテツ ou メトロ
+- Moto : バイク (ou オートバイ)
+- Scooter : スクーター
 - Taxi : タクシー
-- Train : 電車、でんしゃ
-- Véhicule : 車、くるま
-- Vélo : 自転車、じてんしゃ
-- Voiture : 自動車、じどうしゃ
+- Train : 電車、デンシャ
+- Tramway : 路面電車、ロメンデンシャ
+- Véhicule, moyen de transport : 乗り物、のりもの
+- Vélo : 自転車、ジテンシャ
+- Voiture : 車、くるま
+  - Automobile : 自動車、ジドウシャ
+- Voiture de police : パトカー (abbréviation de パトロールカー)
