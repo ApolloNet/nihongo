@@ -9,6 +9,8 @@
 - Carte, plan : 地図、ちず
 - Proche, situé à proximité: 近い、ちかい
 - Emplacement : 在りか、ありか
+- Lieu : 所、ところ
+  - On ne vas pas vers quelqu'un, mais vers son lieu : 田中さんの所へ行く。
 
 ## Repères
 
