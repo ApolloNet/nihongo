@@ -1,16 +1,18 @@
 # Corps
 
-- Corps : からだ
-- Tête : あたま
-- Bouche : くち
-- Oeil : め
-- Nez : はな
-- Oreille : みみ
-- Cheveux : かみ
-- Jambe, pied : あし
 - Bras : うで
-- Main : て
+- Bouche : くち
+- Cheveux : かみ
 - Doigt : ゆび
+- Coeur : 心、こころ
+- Corps : からだ
+- Jambe, pied : あし
+- Main : て
+- Nez : はな
+- Oeil : め
+- Oreille : みみ
+- Tête : あたま
+
 
 ## Vêtements
 
