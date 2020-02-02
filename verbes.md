@@ -9,6 +9,8 @@
 - Dire : 言う、いう
 - Écrire : 書く、かく
 - Écouter : 聞く、きく
+- Être (vivant et animé) : いる
+- Être (non vivant ou inanimé) : ある
 - Imaginer : 想像する、そうぞうする
 - Lire :　読む、のむ
 - Mourir : 死ぬ、しぬ
