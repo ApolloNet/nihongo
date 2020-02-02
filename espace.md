@@ -8,6 +8,7 @@
 - Sortie : 出口、でぐち
 - Carte, plan : 地図、ちず
 - Proche, situé à proximité: 近い、ちかい
+- Emplacement : 在りか、ありか
 
 ## Repères
 
