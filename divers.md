@@ -2,13 +2,9 @@
 
 - Amour : 愛、あい
 - Argent, monnaie : 金、かね
-- Chaise : 椅子、いす
 - Clé : 鍵、かぎ
 - Montre : 時計、とけい
-- Parapluie : 傘、かさ
-- Sac : 鞄、かばん
 - Sourire : にこにこ
-- Table : 机、つくえ
 - Tout, total, en entier : 全部、ぜんぶ
 
 ## Culture
@@ -69,6 +65,11 @@
 - Salle de classe : 教室、きょうしつ
 - Salle de réunion : 会議室、かいぎしつ
 - WC : トイレ ou お手洗い、おてあらい
+
+## Meubles
+
+- Chaise : 椅子、いす
+- Table : 机、つくえ
 
 ## Transports
 
