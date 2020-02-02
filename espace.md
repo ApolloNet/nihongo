@@ -1,14 +1,33 @@
 # Espace
 
-- Droite : 右、みぎ
-- Gauche : 左、ひだり
+## Divers
+
 - Ici : ここ
 - Là-bas : あそこ
-- À côté : 隣, tonari
 - Entrée : うりぐち
 - Sortie : 出口、でぐち
 - Carte, plan : 地図、ちず
 - Proche, situé à proximité: 近い、ちかい
+
+## Repères
+
+- Droite : 右、みぎ
+- Gauche : 左、ひだり
+- Dessus : 上、うえ
+- Dessous : 下、した
+- Devant : 前、まえ
+- Arrière : 後ろ、うしろ
+- Intérieur : 内、うち
+- Intérieur, milieu : 中、なか
+- Extérieur : 外、そと
+- Intervalle (entre) : 間、あいだ
+- Fond : 奥、おく
+- Endroit : 表、おもて
+- Envers : 裏、うら
+- Côté : 横、よこ
+- Proximité : そば (側)
+- Voisinage : 隣, となり
+- Alentours : 周り、まわり
 
 ##  Points cardinaux
 
