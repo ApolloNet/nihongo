@@ -51,8 +51,10 @@
 
 - Avion : 飛行機、ひこうき
 - Bateau : 船、ふね
+- Bus : バス
 - Métro : 地下鉄、ちかてつ
 - Shinkansen : しんかんせん
+- Taxi : タクシー
 - Train : 電車、でんしゃ
 - Véhicule : 車、くるま
 - Vélo : 自転車、じてんしゃ
