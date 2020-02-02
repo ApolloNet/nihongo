@@ -4,6 +4,7 @@
 - Argent, monnaie : 金、かね
 - Clé : 鍵、かぎ
 - Montre : 時計、とけい
+- Rêve : 夢、ゆめ
 - Sourire : にこにこ
 - Tout, total, en entier : 全部、ぜんぶ
 
