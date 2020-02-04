@@ -12,7 +12,7 @@
 ## Aliments
 
 - Alcool : お酒、おさけ
- 　- Saké : 日本酒、ニホンシュ
+  - Saké : 日本酒、ニホンシュ
 - Bonbon, confiserie, gâteaux, pâtisserie : お菓子、おカシ
 - Boisson : 飲み物、のみもの
 - Beurre : バター
