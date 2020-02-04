@@ -3,7 +3,6 @@
 - Bon appétit : いただきます
 - À votre santé : かんぱい
 - Encore : もう一度お願いします = もういちどおねがいします
-
 - Baguettes : 箸、はし
 - Bol : 茶碗、チャワン
 - Repas : ご飯、ごハン (oui, comme le riz)
