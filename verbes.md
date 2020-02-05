@@ -16,6 +16,7 @@
 - Dormir : 寝る、ねる (en fait, c'est "être couché", il y a un autre verbe pour "someiller"...)
 - Écrire : 書く、かく
 - Écouter : 聞く、きく
+- Enseigner : 教える、おしえる
 - Être (vivant et animé) : いる
 - Être (non vivant ou inanimé) : ある
 - Faire : する
