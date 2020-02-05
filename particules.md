@@ -13,7 +13,8 @@
 - Possesion, relation : の
 - Et / avec (énumération pas forcément exhaustive mais quand-meme) : と
 - Et / avec (énumération non-exhaustive) : や
-- Complément d'objet : を
+- Complément d'objet direct (quoi) : を
+- Complément d'objet indirect (à qui, contre qui...) : に
 - Depuis : から
 - Vers : まで
 - Comparaison : より
