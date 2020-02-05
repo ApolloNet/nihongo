@@ -23,6 +23,7 @@
 - Neuf : しんぴん
 - Nombreux : 多い, おおい
 - Nouveau : 新しい、あたらしい
+- Pratique : 便利、べんり
 - Puant : 臭い、くさい
 - Rond : 丸い、まるい
 
