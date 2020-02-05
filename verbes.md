@@ -8,6 +8,8 @@
 - Boire : 飲む、のむ
 - Comprendre : 分かる、わかる
 - Continuer, se poursuivre :　続く、つづく
+- Couper : 切る、きる
+- Courir : 走る、はしる
 - Détester :　嫌い、きらい です
 - Devenir : 成る、なる
 - Dire : 言う、いう
@@ -20,13 +22,16 @@
 - Être (vivant et animé) : いる
 - Être (non vivant ou inanimé) : ある
 - Faire : する
+- Fumer : 吸う、すう
 - Imaginer : 想像する、そうぞうする
+- Lancer : 投げる、なげる
 - Se lever, se mettre debout : 立つ、たつ
-- Lire :　読む、よむ
+- Lire : 読む、よむ
 - Manger : 食べる、たべる
-- Marcher :　歩く、あるく
+- Marcher : 歩く、あるく
 - Mourir : 死ぬ、しぬ
-- Parler :　話す、はなす
+- Nager : 泳ぐ、およぐ
+- Parler : 話す、はなす
 - Penser : 思う、おもう
 - Poser, mettre : 置く、おく
 - Pousser : 押す、おす
@@ -35,8 +40,10 @@
 - Rentrer chez soi : 帰る、かえる
 - Revenir, retourner : 戻る、もどる
 - Savoir : 知る、しる
+- Soigner : 治す、なおす
 - Vendre : 売る、うる
 - Venir : 来る、くる
+- Voler (dans les airs) : 飛ぶ、とぶ
 - Voler, dérober : 盗む、ぬすむ
 
 ## Les 3 groupes
