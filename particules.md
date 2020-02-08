@@ -6,7 +6,7 @@
 - Lieu (dans lequel il ne se passe rien / avec verbe de présence : いる　et ある) : に
 - Lieu (dans lequel il se passe une action / avec verbe d'action) : で
 - Lieu parcouru (avec verbe de déplacement) : を
-　　- Exemple : 鳥は空を飛ぶ ou 私は公園を歩く ou 魚は海を泳ぐ
+  - Exemple : 鳥は空を飛ぶ ou 私は公園を歩く ou 魚は海を泳ぐ
 - Direction : へ
 - Moyen : で
   - レストランへ行く : aller vers le restaurant
