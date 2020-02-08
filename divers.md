@@ -5,6 +5,7 @@
 - Clé : 鍵、かぎ
 - Étincelle : 火花、ひばな
 - Feu d'artifice : 花火、はなび
+- Lumière : 光、ひかり
 - Montre : 時計、とけい
 - Rêve : 夢、ゆめ
 - Sourire : にこにこ
