@@ -2,7 +2,7 @@
 
 - [Quand : toki, to, tara, itsu](https://guidedujaponais.fr/expressions/quand-en-japonais-toki-to-tara-itsu-en-japonais/)
 
-## Repères temporels
+## Repères temporels
 
 - Le présent : 現在、ゲンザイ
 - Le passé : 過去、カコ
