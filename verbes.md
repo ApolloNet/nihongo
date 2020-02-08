@@ -19,6 +19,7 @@
 - Écrire : 書く、かく
 - Écouter : 聞く、きく
 - Enseigner : 教える、おしえる
+- Envoyer : 送る、おくる
 - Être (vivant et animé) : いる
 - Être (non vivant ou inanimé) : ある
 - Faire : する
