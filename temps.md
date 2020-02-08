@@ -1,5 +1,12 @@
 # Temps
 
+Le complément de temps se place en début de phrase ou après le thème :
+
+- avec la particule に si on désigne un point précis (à 7h, au 13e siècle...)
+- ou aucune particule si mot relatif au moment (aujourd'hui, la semaine prochaine, tous les jours...)
+
+## Liens
+
 - [Quand : toki, to, tara, itsu](https://guidedujaponais.fr/expressions/quand-en-japonais-toki-to-tara-itsu-en-japonais/)
 
 ## Repères temporels
