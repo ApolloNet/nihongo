@@ -26,6 +26,7 @@ Le complément de temps se place en début de phrase ou après le thème :
 - Immédiatement : すぐ、直ぐ
 - Bientôt もうすぐ (expression idiomatique composée de もう et すぐ, comme こんにちは, donc en hiragana)
 - Encore : また ou まだ (pas encore)
+Toujours : いつも
 
 前, 後, 間 : (presque) comme les repères spaciaux
 
@@ -45,6 +46,7 @@ Le complément de temps se place en début de phrase ou après le thème :
 ## Moments
 
 - Matin : 朝, あさ
+  - Ce matin : 今朝、けさ
 - Midi : 昼, ひる
 - Soir : 夕べ, ゆうべ
 - Soir : 晩, ばん
@@ -57,6 +59,9 @@ Le complément de temps se place en début de phrase ou après le thème :
 - Avant-hier : 一昨日, おととい
 - Demain : 明日, あした
 - Après-demain : 明後日, あさって
+- Toute la journée : 一日中、イチニチジュウ
+- Tous les jours : 毎日、マイニチ
+- Tous les soirs : 毎晩、マイバン
 
 ### Numéro des jours
 
@@ -73,6 +78,7 @@ https://youtu.be/405O5Y32cr0?t=429
 - Ce mois-ci : 今月, こんげつ
 - Le mois dernier : 先月, せんげつ
 - Le mois prochain : 来月, らいげつ
+- Tous les mois : 毎月、まいつき (oui, avec つき et pas げつ)
 
 ### Les mois
 
