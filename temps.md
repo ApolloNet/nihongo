@@ -1,12 +1,26 @@
 # Temps
 
-## Liens
-
 - [Quand : toki, to, tara, itsu](https://guidedujaponais.fr/expressions/quand-en-japonais-toki-to-tara-itsu-en-japonais/)
 
-## Divers
+## Repères temporels
 
+- Le présent : 現在、ゲンザイ
+- Le passé : 過去、カコ
+- Le futur : 未来、ミライ
+- Maintenant : 今、いま
+- Avant : 前、まえ
+- Après : 後、あと
+- Pendant : 間、あいだ
+- Auparavant, jusqu'à maintenant : 以前、イゼン
+- Dorénavant : 以後、イゴ
+- Il y a un instant : さっき
 - De temps en temps : 時々、ときどき
+- Déjà : もう
+- Immédiatement : すぐ、直ぐ
+- Bientôt もうすぐ (expression idiomatique composée de もう et すぐ, comme こんにちは, donc en hiragana)
+- Encore : また ou まだ (pas encore)
+
+前, 後, 間 : (presque) comme les repères spaciaux
 
 ## Heures
 
