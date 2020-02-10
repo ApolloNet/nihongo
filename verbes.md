@@ -7,6 +7,7 @@
 - Avancer, progresser : 進む、すすむ
 - Boire : 飲む、のむ
 - Comprendre : 分かる、わかる
+- Commencer : 始まる、はじまる (intr. = sans COD)
 - Continuer, se poursuivre :　続く、つづく
 - Couper : 切る、きる
 - Courir : 走る、はしる
@@ -43,6 +44,7 @@
 - Revenir, retourner : 戻る、もどる
 - Savoir : 知る、しる
 - Soigner : 治す、なおす
+- Se terminer : 終わる、おわる (intr. = sans COD)
 - Tuer : 殺す、ころす
 - Vendre : 売る、うる
 - Venir : 来る、くる
