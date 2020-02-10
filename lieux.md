@@ -31,6 +31,7 @@
 - Temple bouddhiste : 寺、てら
 - Temple shinto : 神社、ジンジャ
 - Théâtre : 劇場、ゲキジョウ
+- Université : 大学、ダイガク
 - Ville : 都市、とし
 - Village : 村、むら
 - Zoo : 動物園、ドウブツエン
