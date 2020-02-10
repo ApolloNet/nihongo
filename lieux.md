@@ -37,14 +37,15 @@
 
 ## Pièces
 
-- Bureau : 事務室、じむしつ*
+- Bureau : 事務室、じむしつ
 - Salle de classe : 教室、きょうしつ
 - Salle de réunion : 会議室、かいぎしつ
 - WC : トイレ ou お手洗い、おてあらい
 
-## Meubles
+## Meubles et autres
 
 - Chaise : 椅子、いす
+- Fenêtre : 窓、まど
 - Table : 机、つくえ
 
 ## Transport
