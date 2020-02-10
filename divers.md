@@ -6,10 +6,13 @@
 - Étincelle : 火花、ひばな
 - Feu d'artifice : 花火、はなび
 - Lumière : 光、ひかり
+- Naissance : 誕生、タンジョウ
+  - Anniversaire : 誕生日,タンジョウビ
 - Montre : 時計、とけい
 - Rêve : 夢、ゆめ
 - Sourire : にこにこ
 - Tout, total, en entier : 全部、ぜんぶ
+- Vie : 人生、ジンセイ
 
 ## Culture
 
