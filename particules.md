@@ -20,7 +20,7 @@
   - [Attention aux pièges](https://www.youtube.com/watch?v=J2l6bz_wqkk), par exemple 合う s'utilise avec に pas を
   - Verbes qui expriment un changement utilisent に : なる ou 変わる
 - Depuis : から
-- Vers : まで
+- Jusqu'à : まで
 - Comparaison : より
 - Interrogation : か
 - Exclamation : よ
