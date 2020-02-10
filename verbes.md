@@ -25,6 +25,7 @@
 - Faire : する
 - Fumer : 吸う、すう
 - Imaginer : 想像する、そうぞうする
+- Jeter : 投げる、なげる
 - Lancer : 投げる、なげる
 - Se lever, se mettre debout : 立つ、たつ
 - Lire : 読む、よむ
