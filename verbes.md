@@ -43,6 +43,7 @@
 - Revenir, retourner : 戻る、もどる
 - Savoir : 知る、しる
 - Soigner : 治す、なおす
+- Tuer : 殺す、ころす
 - Vendre : 売る、うる
 - Venir : 来る、くる
 - Voler (dans les airs) : 飛ぶ、とぶ
