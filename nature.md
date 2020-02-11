@@ -16,15 +16,27 @@
 
 ## Animaux
 
+- Animal : 動物、ドウブツ
 - Chat : 猫、ねこ
 - Cheval : 馬、うま
 - Chien : 犬、いぬ
-- Singe : さる
-- Crevete : えび
-- Tigre : とら
-- Vache : 牛、うし
-- Renard : 狐、きつね
-- Lapin : うさぎ
-- Souris, rat : ねずみ
-- Poisson : 魚、さかな
+- Crevete : 海老、えび
+- Dinosaure : 恐竜、キョウリュウ
+- Dragon : 竜、リュウ ou たつ (2 lectures possibles), autre kanji : 龍
+- Éléphant : 象、ゾウ
+- Girafe : キリン
+- Lapin : 兎、うさぎ
+- Lion : ライオン ou 獅子、シシ
+- Loup : 狼、おおかみ
+- Mouton : 羊、ひつじ
 - Oiseau : 鳥、とり
+- Ours : 熊、くま
+- Poisson : 魚、さかな
+- Renard : 狐、きつね
+- Sanglier : 猪、いのしし
+- Serpent : 蛇、へび
+- Singe : 猿、さる
+- Souris, rat : 鼠、ねずみ
+- Tigre : 虎、とら
+- Vache : 牛、うし
+- Zèbre : 縞馬、しまうま
