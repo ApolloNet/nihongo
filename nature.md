@@ -20,6 +20,7 @@
 - Chat : 猫、ねこ
 - Cheval : 馬、うま
 - Chien : 犬、いぬ
+- Corne : 角、つの
 - Crevete : 海老、えび
 - Dinosaure : 恐竜、キョウリュウ
 - Dragon : 竜、リュウ ou たつ (2 lectures possibles), autre kanji : 龍
