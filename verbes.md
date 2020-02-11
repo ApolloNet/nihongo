@@ -5,7 +5,9 @@
 - Acheter : 買う、かう
 - Aller : 行く、いく
 - Avancer, progresser : 進む、すすむ
+- Se battre : 戦う、たたかう (adversaire indiqué avec la particule と)
 - Boire : 飲む、のむ
+- Brûler : 燃える、もえる (intransitif)
 - Comprendre : 分かる、わかる
 - Commencer : 始まる、はじまる (intr. = sans COD)
 - Continuer, se poursuivre :　続く、つづく
@@ -36,8 +38,10 @@
 - Nager : 泳ぐ、およぐ
 - Parler : 話す、はなす
 - Penser : 思う、おもう
+- Planter : 植える、うえる
 - Poser, mettre : 置く、おく
 - Pousser : 押す、おす
+- Protéger : 守る、まもる
 - Regarder : 見る、みる
 - Rencontrer : 合う、あう
 - Rentrer chez soi : 帰る、かえる
@@ -45,6 +49,7 @@
 - Savoir : 知る、しる
 - Soigner : 治す、なおす
 - Se terminer : 終わる、おわる (intr. = sans COD)
+- Tomber : 落ちる、おちる
 - Tuer : 殺す、ころす
 - Vendre : 売る、うる
 - Venir : 来る、くる
