@@ -23,6 +23,7 @@
 - Homme : 男の人、おとこのひと
 - Enfant : 子供、こども
 - Fille : 女の子
+  - Jeune fille : 少女、ショウジョ
 - Garçon : 男の子
 - Amoureux(se) : 恋人、こいびと
 - Ami : 友達, ともだち (suffixe だち mais utilisé pour singulier aussi) ou 友人, ゆうじん
