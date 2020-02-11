@@ -1,6 +1,6 @@
 # Particules
 
-- Thème de la phrase (et des phrases suivantes si omission) (ce n'est pas le sujet du verbe) : は
+- Thème de la phrase : は
 - Aussi-sujet : も
 - Sujet du verbe : が
 - Lieu (dans lequel il ne se passe rien / avec verbe de présence : いる　et ある) : に
@@ -25,6 +25,30 @@
 - Interrogation : か
 - Exclamation : よ
 
+## は
+
+Thème de la phrase.  
+Les particules apportent de la nuance mais sont optionnelles.
+
+- Sujet du verbe : 私は
+- Un lieu dans lequel il se passe quelque chose : 日本では
+- Un lieu dans lequel il ne se passe rien : 日本には
+- Une direction : 日本へは
+- Un complément de temps : 今日は
+- Un point de départ : ２時からは
+- Un point d'arrivée : フランスまでは
+- COD (on ne met pas le を) : みるくは
+- Etc...
+
+## が
+
+Sujet du verbe :
+
+- Si thème de la phrase différent du sujet : ミリクは虎が毎朝飲む = Le lait, les tigres en boivent tous les matins
+- Phrase sans thème pour insister sur le sujet, ou pour donner une nouvelle information : さんがもののけ姫だ = C'est San qui est la Princesse Mononoké
+- Présence : 木の前にはライオンがいる = Devant l'arbre, il y a un lion
+- Ya pas de verbes avoir donc : キリンは角がある = La girafe a des cornes, 私は妹がいる = j'ai une petite soeur
+  
 ## Liens
 
 https://fr.wikibooks.org/wiki/Japonais/Grammaire/Particules
