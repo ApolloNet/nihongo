@@ -51,4 +51,5 @@ Sujet du verbe :
   
 ## Liens
 
-https://fr.wikibooks.org/wiki/Japonais/Grammaire/Particules
+- [Particules は et が](https://www.youtube.com/watch?v=3wDRCK5c5_8)
+- https://fr.wikibooks.org/wiki/Japonais/Grammaire/Particules
