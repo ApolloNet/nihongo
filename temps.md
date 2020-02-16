@@ -26,7 +26,7 @@ Le complément de temps se place en début de phrase ou après le thème :
 - Immédiatement : すぐ、直ぐ
 - Bientôt もうすぐ (expression idiomatique composée de もう et すぐ, comme こんにちは, donc en hiragana)
 - Encore : また ou まだ (pas encore)
-Toujours : いつも
+- Toujours : いつも
 
 前, 後, 間 : (presque) comme les repères spaciaux
 
