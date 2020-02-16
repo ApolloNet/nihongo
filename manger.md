@@ -37,3 +37,29 @@
 - Riz : 米、こめ ou ご飯、ごハン (riz cuit) ou ライス
 - Thé : お茶、おチャ
 - Viande : 肉、ニク
+
+## Fruits
+
+On utilise les kanas plus que les kanjis (comme pour les animaux)
+
+- Ananas : パイナップル
+- Abricot : アプリコット、アンズ、杏子
+- Banane : バナナ
+- Cerise : さくらんぼ、桜桃
+- Citron : レモン
+- Figue : いちじく、無花果 (littéralement : fruit sans fleur)
+- Fraise : いちご、苺、ストロベリー
+- Framboise : ラズベリー
+- Kiwi : キウイ
+- Mandarine : ミカン、蜜柑
+- Mango : マンゴー
+- Melon : メロン
+- Noix de coco : ココナッツ
+- Orange : オレンジ
+- Pastèque : スイカ、西瓜
+- Pêche : もも、桃
+- Poire : なし、梨 (pour la poire occidentale : セイヨウなし、西洋なし)
+- Pomme : リンゴ、林檎
+- Prune : うめ、梅
+- Raisin : ブドウ、葡萄
+- Yuzu : ユズ、柚子
