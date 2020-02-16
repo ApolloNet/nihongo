@@ -55,6 +55,7 @@
 - Venir : 来る、くる
 - Voler (dans les airs) : 飛ぶ、とぶ
 - Voler, dérober : 盗む、ぬすむ
+- Vomir : 吐く、はく
 
 ## Les 3 groupes
 
