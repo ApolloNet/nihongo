@@ -1,7 +1,9 @@
 # Particules
 
-- Thème de la phrase : は
-- Aussi-sujet : も
+- Thème de la phrase : 
+- Aussi : も ([voir ici](https://youtu.be/_YWoTxOusKw?t=305))
+  - Remplace は, が ou を
+  - Se place après les autres particules
 - Sujet du verbe : が
 - Lieu (dans lequel il ne se passe rien / avec verbe de présence : いる　et ある) : に
 - Lieu (dans lequel il se passe une action / avec verbe d'action) : で
