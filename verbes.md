@@ -51,6 +51,7 @@
 - Se terminer : 終わる、おわる (intr. = sans COD)
 - Tomber : 落ちる、おちる
 - Tuer : 殺す、ころす
+- Utiliser : 使う、つかう
 - Vendre : 売る、うる
 - Venir : 来る、くる
 - Voler (dans les airs) : 飛ぶ、とぶ
