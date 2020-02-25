@@ -1,6 +1,6 @@
 # Particules
 
-- Thème de la phrase : 
+- Thème de la phrase : は
 - Aussi : も ([voir ici](https://youtu.be/_YWoTxOusKw?t=305))
   - Remplace は, が ou を
   - Se place après les autres particules
@@ -22,8 +22,14 @@
   - [Attention aux pièges](https://www.youtube.com/watch?v=J2l6bz_wqkk), par exemple 合う s'utilise avec に pas を
   - Verbes qui expriment un changement utilisent に : なる ou 変わる
 - Depuis : から
+  - Dans un style soutenu, poli, formel : より
 - Jusqu'à : まで
-- Comparaison : より
+- Base pour la comparaison : より
+  - Par rapport à, comparé à, plutôt que...
+  - 馬は肉より花を食べる = Les chevaux mangent des fleurs plutôt que de la viande
+  - 馬は牛より花を食べる = Les chevaux, plutôt que les vaches, mangent des fleurs
+  - 馬は牛より花を**よく**食べる = Les chevaux mangent **plus** de fleurs que les vaches
+  - Ce qui comparé (quand c'est pas clair) : の方、のほう (avec particule が), [voir ici](https://youtu.be/RUHUl6d4Iko?t=481)
 - Interrogation : か
 - Exclamation : よ
 
