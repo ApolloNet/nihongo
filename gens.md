@@ -28,6 +28,7 @@
 - Amoureux(se) : 恋人、こいびと
 - Ami : 友達, ともだち (suffixe だち mais utilisé pour singulier aussi) ou 友人, ゆうじん
 - Propriétaire : 経営者、ケイエイシャ
+- Être humain : 人間、ニンゲン
 
 ## Famille
 
