@@ -24,6 +24,8 @@
 - Depuis : から
   - Dans un style soutenu, poli, formel : より
 - Jusqu'à : まで
+- Parce que / car : から
+  - 私は映画が好きだから毎晩 DVD を見ています。
 - Base pour la comparaison : より
   - Par rapport à, comparé à, plutôt que...
   - 馬は肉より花を食べる = Les chevaux mangent des fleurs plutôt que de la viande
