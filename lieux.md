@@ -69,3 +69,11 @@
 - Voiture : 車、くるま
   - Automobile : 自動車、ジドウシャ
 - Voiture de police : パトカー (abbréviation de パトロールカー)
+
+# Plage
+
+- Mer : 海、うみ
+- Océan : 大洋、タイヨウ
+- Plage de sable : 砂浜、すなはま
+- Sable : 砂、すな
+- Vague : 波、なみ
