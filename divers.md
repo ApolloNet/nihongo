@@ -12,6 +12,7 @@
 - Rêve : 夢、ゆめ
 - Sourire : にこにこ
 - Tout, total, en entier : 全部、ぜんぶ
+- Vacances : バカンス (ça vient du français \o/) ou 休み、やすみ
 - Vie : 人生、ジンセイ
 
 ## Culture
