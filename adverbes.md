@@ -75,28 +75,28 @@ Les adverbes sont souvent écrits en hiragana.
 
 ## Particules adverbiales
 
-Après un nom, pour le nuancer.  
+Après un nom, pour le nuancer.
 
 Uniquement : だけ (ou のみ, plus formel)  
 Les pandas mangent uniquement du bambou : パンダは竹**だけ**を食べる
 
-Uniquement (négatif = ne que) : しか　　
-Les pandas ne mangent que du bambou : パンダは竹**しか**食べない　　
+Uniquement (négatif = ne que) : しか  
+Les pandas ne mangent que du bambou : パンダは竹**しか**食べない  
 /!\ Pas de particule を après.
 
-Uniquement (connotation péjorative) : ばかり　　
+Uniquement (connotation péjorative) : ばかり  
 Otakon ne lit que des mangas (et c'est pas bien) : オタコンは漫画**ばかり**を読む
 
 Environ : くらい  
-Mais ça se prononce ぐらい
+Mais ça se prononce ぐらい  
 Environ 6 heures : ６時間**ぐらい**
 
-Environ (pour des points fixes dans le temps) : ころ　　
-Mais ça se prononce ごろ
+Environ (pour des points fixes dans le temps) : ころ  
+Mais ça se prononce ごろ  
 Le cours commence environ à 8h : 授業は８時**ごろ**に始まる
 
-Autant que : ほど　　
+Autant que : ほど  
 C'est grand comme un palmier : ヤシ**ほど**のおおきさだ
 
-Entre autres, etc : など　　
+Entre autres, etc : など  
 Otakon boit du lait, du café, etc. : オタコンはミリクやコーヒーなどを読む
