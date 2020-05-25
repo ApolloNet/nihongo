@@ -4,6 +4,7 @@
 
 - Acheter : 買う、かう
 - Aller : 行く、いく
+- Arriver : 着く、つく
 - Avancer, progresser : 進む、すすむ
 - Se battre : 戦う、たたかう (adversaire indiqué avec la particule と)
 - Boire : 飲む、のむ
@@ -45,6 +46,7 @@
 - Regarder : 見る、みる
 - Rencontrer : 合う、あう
 - Rentrer chez soi : 帰る、かえる
+- Rester : 残る、のこる
 - Revenir, retourner : 戻る、もどる
 - Savoir : 知る、しる
 - Soigner : 治す、なおす
