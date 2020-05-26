@@ -11,6 +11,7 @@
 - Hôpital : 病院、ビョウイン
 - Hôtel : ホテル
 - Immeuble : 建物、たてもの
+- Jardin :庭、にわ
 - Librairie : 本屋、ほんや
 - Magazin : 店、みせ
   - Superette : コンビニ
@@ -39,15 +40,35 @@
 ## Pièces
 
 - Bureau : 事務室、じむしつ
+- Cave : 地下貯蔵庫、チカチョゾウコ
+- Cuisine : 台所、ダイどころ (ou キッチン)
+- Chambre à coucher : 寝室、しんしつ
+- Genkan, entrée pour enlever les chaussures : 玄関、ゲンカン
+- Grenier : 屋根裏、やねうら (ou 屋根裏部屋、やねうらべや)
+- Pièce : 部屋、へや
+- Salle à manger : ダイニングルーム
+- Salle de bain : 風呂場、フロば
 - Salle de classe : 教室、きょうしつ
 - Salle de réunion : 会議室、かいぎしつ
+- Salon : リビングルーム
 - WC : トイレ ou お手洗い、おてあらい
 
 ## Meubles et autres
 
+- Baignoire : 浴槽、ヨクソウ
+- Boite aux lettres (chez soi) : 優美抜け、ユウビンうけ
+- Boite aux lettres (dans la rue) : 郵便ポスト
 - Chaise : 椅子、いす
+- Cheminée (dehors, sur le toit) : 煙突、エントツ
+- Cheminée (dedans, où il y a le foyer) : 暖炉、ダンロ
+- Douche : シャワー
+- Escalier : 階段、カイダン
 - Fenêtre : 窓、まど
+- Mûr : 壁、かべ
+- Plafond : 天井、テンジョウ
+- Sol (en intérieur seulement), plancher : 床、ゆか
 - Table : 机、つくえ
+- Toit : 屋根、やね
 
 ## Transport
 
