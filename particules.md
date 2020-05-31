@@ -58,8 +58,40 @@ Sujet du verbe :
 - Phrase sans thème pour insister sur le sujet, ou pour donner une nouvelle information : さんがもののけ姫だ = C'est San qui est la Princesse Mononoké
 - Présence : 木の前にはライオンがいる = Devant l'arbre, il y a un lion
 - Ya pas de verbes avoir donc : キリンは角がある = La girafe a des cornes, 私は妹がいる = j'ai une petite soeur
-  
-## Liens
+
+# Particules adverbiales
+
+Voir [particules adverbiales](
+https://github.com/ApolloNet/nihongo/blob/master/adverbes.md#particules-adverbiales)
+
+# Particules de fin de phrase
+
+Elles se placent après le verbe et exprime l'attitude du locuteur.  
+Dans un contexte formel, on ne les utilise donc pas.  
+On peut les combiner : よね, わよ ou かな
+[La liste complète](https://youtu.be/f3Ins4TQGjg?t=1089)
+
+- よ : accentuation, exclamation
+  - Le signe ! n'est requis mais peut être utilisé
+- ね : confirmation (féminin, efféminé)
+  - L'intonation monte : interrogation, demande de confirmation, n'est-ce pas ?, hein ?, non ?
+  - L'intonation baisse : réponse, confirmation
+- な : opinion (familier, masculin, correspond au ね féminin)
+- わ : entente, accord ou accentuation comme よ　(plutôt féminin)
+- ぜ : entente (familmier, masculin, よ vulgaire)
+- とも : évidence, bien sûr
+- ぞ : accentuation (plus fort que よ, familier, masculin) : 行くぞ！
+- さ : accentuation mais pour attrirer l'attention (familier, masculin) : "tu sais," 
+  - さ remplace le verbe だ en fin de phrase
+- か : question
+  - Le signe ? n'est requis mais peut être utilisé
+  - À l'oral, on peut ommettre le か et seulement monter l'intonation, comme en français
+  - À l'écrit, on peut ommettre le か et mettre le signe ?
+  - か remplace le verbe だ en fin de phrase
+  - Attention à la réponse à une phrase interronégative, on inverse oui et non par rapport au français : n'est-elle pas ...? Oui, elle n'est pas.
+- かしら : incertitude, doute (plutôt féminin)
+
+# Liens
 
 - [Particules は et が](https://www.youtube.com/watch?v=3wDRCK5c5_8)
-- https://fr.wikibooks.org/wiki/Japonais/Grammaire/Particules
+
