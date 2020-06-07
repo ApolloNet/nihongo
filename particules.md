@@ -58,7 +58,7 @@ Sujet du verbe :
 - Phrase sans thème pour insister sur le sujet, ou pour donner une nouvelle information : さんがもののけ姫だ = C'est San qui est la Princesse Mononoké
 - Présence : 木の前にはライオンがいる = Devant l'arbre, il y a un lion
 - Ya pas de verbes avoir donc : キリンは角がある = La girafe a des cornes, 私は妹がいる = j'ai une petite soeur
-- が peut s'écrire ヶ et a le sens de の comme dans　犬ヶ島 [L'Île aux chiens](https://fr.wikipedia.org/wiki/L%27%C3%8Ele_aux_chiens) : [Small ke](https://en.wikipedia.org/wiki/Small_ke)
+- が peut s'écrire ヶ et a le sens de の comme dans 犬ヶ島 [L'Île aux chiens](https://fr.wikipedia.org/wiki/L%27%C3%8Ele_aux_chiens), voir [Small ke](https://en.wikipedia.org/wiki/Small_ke)
 
 # Particules adverbiales
 
