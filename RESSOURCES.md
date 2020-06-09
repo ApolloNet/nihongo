@@ -2,7 +2,6 @@
 
 À ranger :
 
-- http://kanji.free.fr/
 - http://nippongo.free.fr/hiragana25.html
 - https://fr.wikibooks.org/wiki/Japonais
 - [jlptgo.com](http://jlptgo.com/)
@@ -17,6 +16,14 @@
 - [Citations](http://www.guidetojapanese.org/french/quotation.html)
 - [La bonne intonation des mots japonais](https://www.youtube.com/watch?v=2BDme2oebH8)
 - [accent.u-biq.org](https://accent.u-biq.org/) : dictionnaire des intonations
+
+## Android Apps
+
+- [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto)
+- [LingoDeer](https://play.google.com/store/apps/details?id=com.lingodeer)
+- [Caractères japonais](https://play.google.com/store/apps/details?id=com.study_languages_online.kanji)
+- [KanjiTree](https://play.google.com/store/apps/details?id=com.asji.kanjitree)
+- [Kana Town](https://play.google.com/store/apps/details?id=fr.koridev.kanatown)
 
 ## Kanjis
 
