@@ -18,6 +18,11 @@
 - [La bonne intonation des mots japonais](https://www.youtube.com/watch?v=2BDme2oebH8)
 - [accent.u-biq.org](https://accent.u-biq.org/) : dictionnaire des intonations
 
+## Kanjis
+
+- [Handwritten kanji search](https://kanji.sljfaq.org/)
+- [Dictionnaire des kanjis](http://kanji.free.fr/)
+
 ## Clavier japonais avec Ubuntu
 
 - https://doc.ubuntu-fr.org/japonais
