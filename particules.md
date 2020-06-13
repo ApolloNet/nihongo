@@ -90,7 +90,49 @@ On peut les combiner : よね, わよ ou かな
   - À l'écrit, on peut ommettre le か et mettre le signe ?
   - か remplace le verbe だ en fin de phrase
   - Attention à la réponse à une phrase interronégative, on inverse oui et non par rapport au français : n'est-elle pas ...? Oui, elle n'est pas.
+- か : compréhension, découverte
+  - Juste avec l'intonation qui baisse en fin de phrase au lieu de monter
 - かしら : incertitude, doute (plutôt féminin)
+
+## Tournure explicative
+
+の en fin de phrase n'est pas une particule de fin de phrase mais une ommission de だ.
+
+- utilisé pour insister sur l'importance de l'information donnée
+- utilisé en interrogation avec juste の pour être plus doux, mois direct que か
+
+**... verbe のだ**
+
+三葉は庭にいる。 : Mitsuha est dans le jardin.  
+三葉は庭にいるのだ。 : **C'est que** Mitsuha est dans le jardin.
+
+Avec le verbe だ, il se transforme en な :
+
+瀧は馬鹿だ。 : Taki est un idiot.  
+瀧は馬鹿なのだ。 : C'est que Taki est un idiot.
+
+Ce だ de fin de phrase est donc le verbe principal.  
+On peut y ajouter une particule de fin de phrase, comme よ.  
+Mais, [comme vu ici](https://github.com/ApolloNet/nihongo/blob/master/particules.md#particules-de-fin-de-phrase), か remplace だ :
+
+三葉は庭にいるのか。 : **Est-ce que** Mitsuha est dans le jardin ?  
+瀧は馬鹿なのか。
+
+Pire, on peut ommettre le か (mais avec l'intonation interrogative) :
+
+三葉は庭にいるの？  
+瀧は馬鹿なの？
+
+À l'oral, on peut abréger le の en ん.  
+Mais ça se fait pas trop sur la forme interrogative.
+
+三葉は庭にいるんだ  
+瀧は馬鹿なんだ
+
+Féminin : affirmation sans だ :
+
+三葉は庭にいるの。  
+三葉は庭にいるのよ。
 
 # Liens
 
