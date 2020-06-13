@@ -4,6 +4,7 @@
 - Ciel : 空、そら
 - Étoile : 星、ほし
 - Forêt : 森、もり
+- Fumée : 煙、けむり
 - Île : 島、しま
 - La lune : 月、つき
 - Mer, océan : 海、うみ
