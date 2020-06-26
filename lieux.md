@@ -55,19 +55,34 @@
 
 ## Meubles et autres
 
+- Ampoule : 電球、デンキュウ
+- Aspirateur : 掃除機、ソウジキ
+- Autocuiseur : 炊飯器、スイハンキ
 - Baignoire : 浴槽、ヨクソウ
 - Boite aux lettres (chez soi) : 優美抜け、ユウビンうけ
 - Boite aux lettres (dans la rue) : 郵便ポスト
 - Chaise : 椅子、いす
 - Cheminée (dehors, sur le toit) : 煙突、エントツ
 - Cheminée (dedans, où il y a le foyer) : 暖炉、ダンロ
+- Congélateur : 冷凍庫、レイトウコ
+- Console de jeu : ゲーム機、ゲームキ
 - Douche : シャワー
 - Escalier : 階段、カイダン
 - Fenêtre : 窓、まど
+- Four : オーブン
+- Interrupteur : スイッチ
+- Lave-linge : 洗濯機、センタクキ ou センタッキ
+- Lave_vaisselle : 食器洗い機、ショッキあらいキ
+- Machine : 機械、キカイ
+- Micro-ondes : 電子レンジ、デンシレンジ
 - Mûr : 壁、かべ
 - Plafond : 天井、テンジョウ
+- Réfrigérateur : 冷蔵庫、レイゾウコ
 - Sol (en intérieur seulement), plancher : 床、ゆか
 - Table : 机、つくえ
+- Téléphone : 電話、デンワ
+- Téléphone portable : ケイタイ ou 携帯電話、ケイタイデンワ
+- Smartphone : スマートフォン ou スマホ
 - Toit : 屋根、やね
 
 ## Transport
