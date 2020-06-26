@@ -2,6 +2,7 @@
 
 - Air, atmosphère : くうき
 - Ciel : 空、そら
+- Électricité : 電気、デンキ
 - Étoile : 星、ほし
 - Forêt : 森、もり
 - Fumée : 煙、けむり
