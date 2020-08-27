@@ -4,6 +4,7 @@
 - Argent, monnaie : 金、かね
 - Blague : 冗談、ジョウダン
 - Clé : 鍵、かぎ
+- Danger : 危険、きけん
 - Étincelle : 火花、ひばな
 - Feu d'artifice : 花火、はなび
 - Lumière : 光、ひかり
