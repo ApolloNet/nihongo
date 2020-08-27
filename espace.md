@@ -2,8 +2,6 @@
 
 ## Divers
 
-- Ici : ここ
-- Là-bas : あそこ
 - Entrée : うりぐち
 - Sortie : 出口、でぐち
 - Carte, plan : 地図、ちず
