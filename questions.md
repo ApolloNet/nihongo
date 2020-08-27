@@ -7,18 +7,39 @@
 ## Mots interrogatifs
 
 - Qui : 誰、だれ
-  - De qui : 誰の
+  - Poli : どなた
+  - Poli : どちら
+  - Poli++ : どちら様、どちらさま
+- De qui, à qui : 誰の
 - Où : どこ、何処
+  - Poli : どちら
 - Quoi, que : 何、なに (ou なん devant les kanas en t, d et n et dans les mots composés)
 - Quand : いつ
-  - Jusqu'à quand : いつまで
-  
+- Jusqu'à quand : いつまで
+- Lequel (laquelle, lesquels, lesquelles) : どれ
+  - Poli : どちら
+  - Choix d'un élément parmi deux : どちら (ou familier : どっち)
+  - Choix d'un élément parmi trois ou plus : どれ
+  - La liste est connectée avec des と et est préfixée par の
+  - あなたはワインとビルのどちらをのむ？
+  - あなたはワインとビルとウイスキーのどれをのむ？
+  - Ci-dessus, on peut aussi utiliser どのお酒 ou 何 
+  - Et aussi : あなたはこのお酒の中でどれをのむ？
+- Quel (quelle, quels, quelles) : どの
+- Vers où, quelle direction : どちら
+  - Familier : どっち
+- Quel genre/type/sorte : どんあ
+- À quel point : どんなに
+- Comment : どう
+  - Formel : いかが
+
 ## Mots indéfinis : +か
 
 - Quelqu'un : 誰か
 - Quelque part : どこか
 - Quelque chose : 何か
 - Moment indifini (un beau jour, un de ces quatre) : いつか 
+- ...
 
 ## Valeurs absolues : +も
 
@@ -29,6 +50,7 @@ Attention, la  particule grammaticale peut s'intercaler : 香はどこ**に**も
 - Partout / Nulle part : どこも
 - Tout / Rien : 何も
 - Toujours / Jamais : いつも
+- ...
 
 ## N'importe... : +でも
 
@@ -36,3 +58,4 @@ Attention, la  particule grammaticale peut s'intercaler : 香はどこ**に**も
 - N'importe où : どこでも
 - N'importe quoi : 何でも
 - N'importe quand : いつでも
+- ...
