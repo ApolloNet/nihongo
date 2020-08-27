@@ -11,7 +11,7 @@
 - Où : どこ、何処
 - Quoi, que : 何、なに (ou なん devant les kanas en t, d et n et dans les mots composés)
 - Quand : いつ
-  - JUsqu'à quand : いつまで
+  - Jusqu'à quand : いつまで
   
 ## Mots indéfinis : +か
 
@@ -30,7 +30,7 @@ Attention, la  particule grammaticale peut s'intercaler : 香はどこ**に**も
 - Tout / Rien : 何も
 - Toujours / Jamais : いつも
 
-## Englober tout quel qu'il soit
+## N'importe... : +でも
 
 - N'importe qui : 誰でも
 - N'importe où : どこでも
