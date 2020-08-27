@@ -9,6 +9,7 @@
 - Se battre : 戦う、たたかう (adversaire indiqué avec la particule と)
 - Boire : 飲む、のむ
 - Brûler : 燃える、もえる (intransitif)
+- Choisir :選ぶ、えらぶ
 - Comprendre : 分かる、わかる
 - Commencer : 始まる、はじまる (intr. = sans COD)
 - Continuer, se poursuivre :　続く、つづく
