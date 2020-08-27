@@ -67,34 +67,33 @@ Regarde le lien aves les jours de la semaine :)
 - Étoile filante : 流れ星、ながれぼし
 - Météore : 流星, リュウセイ
 
-## Ceci, cela
+## Préfixes démonstratifs : こ・そ・あ・ど
 
-### kore, sore, are (Démonstratifs)
-
-kore wa kami desu  
-C' (proche de moi, de celui qui parle) est un papier
-
-kore wa nan desu ka  
-Qu'est ce que c'est (ce truc proche de moi) ?
-
-sore wa kami desu  
-C' (proche de toi, à qui je parle) est un papier
-
-are wa ki desu  
-C' (là-bas, au loin) est un arbre
-
-## kono, sono, ano
-
-doko desu ka  
-où est-ce ?
-
-kono kami wa shiroi desu  
-Ce papier (proche de moi) est blanc
-
-sono kami wa shiroi desu  
-Ce papier (proche de toi) est blanc
-
-ano ki wa ooki-i desu  
-Cet arbre (là-bas) est grand  
-Ou :  
-are wa ooki-i ki desu
+- Un lieu, avec こ : ここ、そこ、あそこ、どこ
+- Une chose, avec れ : これ、それ、あれ、どれ
+- Une chose nommée, avec の : この、その、あの、どの
+- Une direction, avec ちら : こちら、そちら、あちら、どちら
+  - /!\ sert aussi comme version polie pour lieu, chose ou personne !
+- Une direction (familier), avec っち : どっち、そっち、あっち、どっち
+- Une personne (obsolète), avec なた : こなた、そなた、あなた、どなた
+  - あなたはどなたですか。: Qui êtes-vous ? (poli)
+  - こなた et そなた ne sont plus utilisés
+- Une personne (vulgaire, méprisant), avec いつ : こいつ、そいつ、あいつ、どいつ
+- Ce genre de chose nommée, avec んな : こんあ、そんあ、あんあ、どんあ
+  - Les taxis sont ce genre de voiture : タクシーはこんあくるまだ。
+- Ce genre de chose nommée, aussi avec のような : このような、そのような、あのような、どのような
+- Ce genre de chose nommée, aussi avec allongement + いう : こういう、そういう、ああいう、どういう
+- Le degré (à ce point-là), avec んなに : こんなに、そんなに、あんなに、どんなに
+  - C'est un adverbe
+  - Snake parle lentement à ce point : スナークこんなにゆっくりはなす。
+  - Otacon lit des mangas à ce point : オタコンは漫画をこんあない読む。
+- Le degré aussi avec のように : このように、そのように、あのように、どのように
+- Une manière, avec un allongement : こう、そう、ああ、どう
+  - C'est un adverbe
+  - Comment Otacon ferme-t-il la porte ? : オタコンはドアをどう閉めるの。
+  - そうだ。et そうですね。...
+  - Comment vas-tu ? : 具合はどう？
+  - Veux-tu du thé ? : お茶はどう？
+- そ sert aussi à répéter un mot
+  - 私はテレビを買う。それで映画を見る。
+  - 私は学校にいく。そこで漢字を習う。
