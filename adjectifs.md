@@ -17,7 +17,7 @@
 - Fatigué, épuisé : くたくた
 - Froid (au toucher) : 冷たい、つめたい
 - Froid (température) : 寒い、さむい
-- Grand : 大きい、大きい
+- Grand : 大きい、おおきい
 - Haut, élevé, cher : 高い、たかい
 - Intéressant, amusant : 面白い、おもしろい
 - Joyeux, heureux : 嬉しい、うれしい
