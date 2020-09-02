@@ -19,6 +19,7 @@
 - Froid (température) : 寒い、さむい
 - Grand : 大きい、おおきい
 - Haut, élevé, cher : 高い、たかい
+- Identique, même : 同じ、おなじ
 - Intéressant, amusant : 面白い、おもしろい
 - Joyeux, heureux : 嬉しい、うれしい
 - Neuf : しんぴん
