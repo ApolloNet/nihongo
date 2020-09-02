@@ -8,6 +8,7 @@
 - Calme : 静か、しずかな (na)
 - Chaud (température) : 暑い、あつい
 - Cool : かっこいい
+- Content : 嬉しい、うれしい
 - Court, bref : 短い、みじかい
 - Difficile : 難しい、むずかしい
 − Douloureux : 痛い、いたい
