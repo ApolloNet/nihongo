@@ -15,6 +15,7 @@
 - Continuer, se poursuivre :　続く、つづく
 - Couper : 切る、きる
 - Courir : 走る、はしる
+- Demander : 聞く、きく (comme entendre)
 - Détester :　嫌い、きらい です
 - Devenir : 成る、なる
 - Dire : 言う、いう
