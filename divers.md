@@ -2,6 +2,7 @@
 
 - Amour : 愛、あい
 - Argent, monnaie : 金、かね
+- Autre : 他、ほか ou 別、べつ (ex: 他の人)
 - Blague : 冗談、ジョウダン
 - Clé : 鍵、かぎ
 - Danger : 危険、きけん
