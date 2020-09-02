@@ -44,6 +44,7 @@
 - Planter : 植える、うえる
 - Poser, mettre : 置く、おく
 - Pousser : 押す、おす
+- Pouvoir : 出来る、できる
 - Protéger : 守る、まもる
 - Regarder : 見る、みる
 - Rencontrer : 合う、あう
