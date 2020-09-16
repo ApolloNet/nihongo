@@ -98,6 +98,32 @@ J'étudie à la maison
 Ashita uchi de tomodachi to pâti o shimasu  
 Demain je fais la fête à la maison avec des amis
 
+## -て form
+
+- Groupe 1
+  - う, つ, る : って
+  - む, ぬ, ぶ : んで
+  - く : いて
+  - ぐ : いで
+  - す : して
+  - Exception : いく : いって
+- Groupe 2
+  - る : て
+- Groupe 3
+  - する : して
+  - くる : きて
+
+### Usages
+
+- Ordre : 食べて下さい、たべてください
+- En train de se produit, comme la forme "ing" de l'anglais : 食べています
+- S'est produit : 食べてあります
+- Fait à l'avance : 書いておきます
+- Essayer de faire pour voir le résultat : たべてみます
+- Va se produire : たべていきます
+- Vouloir faire : 食べてほしい
+- ...
+
 ## TomAru vs TomEru
 
 https://www.lingual-ninja.com/2018/10/how-to-say-stop-in-japanese-tomaru.html?m=1
