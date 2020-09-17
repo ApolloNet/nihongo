@@ -28,7 +28,7 @@
 - Quel (quelle, quels, quelles) : どの
 - Vers où, quelle direction : どちら
   - Familier : どっち
-- Quel genre/type/sorte : どんあ
+- Quel genre/type/sorte : どんな
 - À quel point : どんなに
 - Comment : どう
   - Formel : いかが
