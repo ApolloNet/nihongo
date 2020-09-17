@@ -32,6 +32,7 @@
 - À quel point : どんなに
 - Comment : どう
   - Formel : いかが
+- Combien : いくら
 
 ## Mots indéfinis : +か
 
