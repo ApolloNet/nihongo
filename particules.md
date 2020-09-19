@@ -37,8 +37,9 @@
 
 ## は
 
-Thème de la phrase.  
-Les particules apportent de la nuance mais sont optionnelles.
+Thème de la phrase.
+
+Les particules apportent de la nuance mais sont optionnelles :
 
 - Sujet du verbe : 私は
 - Un lieu dans lequel il se passe quelque chose : 日本では
@@ -49,6 +50,10 @@ Les particules apportent de la nuance mais sont optionnelles.
 - Un point d'arrivée : フランスまでは
 - COD (on ne met pas le を) : みるくは
 - Etc...
+
+Et aussi :
+
+- 「ありがとう」は英語で何ですか。
 
 ## が
 
