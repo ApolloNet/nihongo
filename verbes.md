@@ -4,6 +4,7 @@
 
 - Acheter : 買う、かう
 - Aller : 行く、いく
+- Apprendre (recevoir l'enseignement) : 習う、ならう
 - Arriver : 着く、つく
 - Avancer, progresser : 進む、すすむ
 - Se battre : 戦う、たたかう (adversaire indiqué avec la particule と)
