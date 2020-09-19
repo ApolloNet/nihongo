@@ -20,10 +20,11 @@
 - Devenir : 成る、なる
 - Dire : 言う、いう
 - Se diriger vers : 向かう、むかう
-- Donner : 上げる、あげる
+- Donner : あげる、上げる
 - Dormir : 寝る、ねる (en fait, c'est "être couché", il y a un autre verbe pour "someiller"...)
 - Écrire : 書く、かく
 - Écouter : 聞く、きく
+- Emprunter : 借りる、かりる
 - Enseigner : 教える、おしえる
 - Envoyer : 送る、おくる
 - Être (vivant et animé) : いる
@@ -45,7 +46,9 @@
 - Poser, mettre : 置く、おく
 - Pousser : 押す、おす
 - Pouvoir : 出来る、できる
+- Prêter : 貸す、かす
 - Protéger : 守る、まもる
+- Recevoir : もらう、貰う
 - Regarder : 見る、みる
 - Rencontrer : 合う、あう
 - Rentrer chez soi : 帰る、かえる
