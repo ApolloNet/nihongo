@@ -33,7 +33,11 @@
 - Comment : どう
   - Formel : いかが
 - Combien : いくら
+
+## 何
+
 - Quel âge : 何歳、なんさい ou おいくつ
+- Quel numéro : 何番、なんばん (les numéros de tél, de chambre... se lisent chiffre par chiffre)
 
 ## Mots indéfinis : +か
 
