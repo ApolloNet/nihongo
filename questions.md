@@ -38,6 +38,7 @@
 
 - Quel âge : 何歳、なんさい ou おいくつ
 - Quel numéro : 何番、なんばん (les numéros de tél, de chambre... se lisent chiffre par chiffre)
+- Comment, avec quoi : 何で (avec des baguettes, à pied, ...)
 
 ## Mots indéfinis : +か
 
