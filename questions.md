@@ -33,6 +33,7 @@
 - Comment : どう
   - Formel : いかが
 - Combien : いくら
+- Quel âge : 何歳、なんさい ou おいくつ
 
 ## Mots indéfinis : +か
 
