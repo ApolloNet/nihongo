@@ -20,58 +20,59 @@ Les adverbes sont souvent écrits en hiragana.
 - Otakon est constamment aux côtés de Snake : オタコンは**ずっと**スネークのそばにいる
 - Snake est peut-être aux toilettes : スネークは**多分**トイレにいる
 
-### Manière
+### Transformer un adjectif en adverbe
 
-- Lentement : ゆっくり
-- Fermement : しっかり
-- Soigneusement : きちんと
+- Adjectifs en -i : -い => -く
+  - Ex : 早い => 早く
+- Adjectifs en -na : -な => -に
+  - Ex : 静か => 静かに
 
-### Degré
+### Quelques adverbes
 
+- À coup sûr : 必ず、かならず
+- À partir de maintenant : それから
 - Assez : かなり
-- Encore plus : もっと
-- Très : とても
-
-### Quantité
-
-- Beaucoup : たくさん
-- Plein : いっぱい
-- Un peu : 少し、すこし
-
-### Temps
-
-- Constamment : ずっと
-- Immédiatement : すぐ
-- Sous peu : 間もなく、まもなく
-
-### Fréquence
-
+- Beaucoup : 沢山、たくさん ou 一杯、いっぱい
+  - Pour les êtres animés : 大勢、おおぜい
+- Bien entendu : もちろん
+  - Comme on pouvait s'y attendre : やはり
+- Bientôt, sous peu : 間もなく、まもなく
+- Certainement : 確かに、たしかに
+- Considérablement : 中々、なかなか
+- Constamment, tout le temps : ずっと
+- D'abord : まず
 - De temps en temps : 時々
-- Souvent : よく
-- Toujours : いつも
-
-### Aspect
-
 - Déjà : もう
-- Encore : まだ
-- Enfin : ついに
+- En dernier : 最後に、さいごに
+- En gros : 大体、だいたい
+- En premier : はじめに
+- Encore : まだ (voir plus bas confusion avec また)
+- Encore plus : もっと
+- Enfin : ついに、とうとう
+- Ensemble : 一緒に、いっしょに
+- Ensuite : 次に、つぎに
+- Finalement : やっと
+- Fermement : しっかり
+- Immédiatement : すぐ
+- La plupart : 大抵、たいてい
+- Lentement : ゆっくり
+- Pas du tout : 全然、ぜんぜん (+ négatif)
+- Pas encore : まだ (+ négatif)
+- Presque : ほとんど
+- Rarement : たまに (+ négatif)
+- Soigneusement : きちんと
+- Souvent : 度々、たびたび
+  - Très souvent : よく
+- Peut-être : 多分、たぶん
+- Toujours : いつも
+- Très : とても
+- Un peu : 少し、すこし ou ちょっと
+- Vraiment : 本当に、ほんとうに
 
-/!\ Spéciale précision sur また vs まだ : 
+**また vs まだ**
 
 - また pour une action qui se répète = encore, de nouveau
 - まだ pour une action qui dure = encore, toujours
-
-### Supposition
-
-- À coup sûr : 必ず、かならず
-- Certainement : 確かに、たしかに
-- Peut-être : 多分、たぶん
-
-### Jugement
-
-- Bien entendu : もちろん
-- Comme on pouvait s'y attendre : やはり
-- Vraiment : 本当に、ほんとうに
 
 ## Particules adverbiales
 
