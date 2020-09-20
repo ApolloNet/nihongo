@@ -33,6 +33,7 @@
 - Comment : どう
   - Formel : いかが
 - Combien : いくら
+- Pourquoi : どうして
 
 ## 何
 
