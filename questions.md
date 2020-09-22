@@ -32,7 +32,9 @@
 - À quel point : どんなに
 - Comment : どう
   - Formel : いかが
-- Combien : いくら
+- Combien (prix, ...) : いくら
+  - Combien de choses : いくつ
+- Combien de temps : どの位、どのくらい
 - Pourquoi : どうして
 
 ## 何
@@ -40,6 +42,11 @@
 - Quel âge : 何歳、なんさい ou おいくつ
 - Quel numéro : 何番、なんばん (les numéros de tél, de chambre... se lisent chiffre par chiffre)
 - Comment, avec quoi : 何で (avec des baguettes, à pied, ...)
+- Combien de personnes : 何人、なんにん
+- Quelle position (dans une liste) : 何番、なんばん
+- Combien de fois : 何回、なんかい
+- Quel étage : なんがい
+- ...
 
 ## Mots indéfinis : +か
 
