@@ -61,7 +61,17 @@ Utilisées pour les classificateurs.
 
 ## Classificateurs
 
-TODO
+- Gens : 人、にん
+- Objets longs et fins (bouteilles, crayons, parapluies, bananes...) : 本、ほん
+- Nombre de fois, répétitions : 回、かい
+- Livres, magazines : 冊、さつ
+- Objets plats (papier, cartes postales, chemises...) : 枚、まい
+- Grands animaux : 頭、とう
+- Petits animaux : 匹、ひき
+- Nourriture ou boisson dans un récipient : 杯、はい
+- Objets ronds (fraises, oeufs, ballons...) : 個、こ
+
+À quelle fréquence : なんかい VS なんがい : quel étage
 
 ## Liens
 
