@@ -1,9 +1,11 @@
 # Divers
 
 - Amour : 愛、あい
+- Agenda : 手帳、てちょう
 - Argent, monnaie : 金、かね
 - Autre : 他、ほか ou 別、べつ (ex: 他の人)
 - Blague : 冗談、ジョウダン
+- Ciseaux : 鋏、はさみ
 - Clé : 鍵、かぎ
 - Danger : 危険、きけん
 - Dernier : 最後、さいご
