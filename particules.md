@@ -4,7 +4,10 @@
 - Aussi : も ([voir ici](https://youtu.be/_YWoTxOusKw?t=305))
   - Remplace は, が ou を
   - Se place après les autres particules
+- Appuyer une négation : も
+  - Ex : 何もありません
 - Sujet du verbe : が
+  - Toujours avec いる et ある
 - Lieu (dans lequel il ne se passe rien / avec verbe de présence : いる　et ある) : に
 - Lieu (dans lequel il se passe une action / avec verbe d'action) : で
 - Lieu parcouru (avec verbe de déplacement) : を
@@ -16,9 +19,12 @@
   - レストランに行く : aller au restaurant
 - Possesion, relation : の
 - Et / avec (énumération pas forcément exhaustive mais quand-meme) : と
+- Citer avec guillemets : と
+  - アリスが、「寒い」と言った。 
 - Et / avec (énumération non-exhaustive) : や
 - Complément d'objet direct (quoi) : を
 - Complément d'objet indirect (à qui, contre qui...) : に
+  - Désigne destinataire et envoyeur, avec 出す、もらう、上げる...
   - [Attention aux pièges](https://www.youtube.com/watch?v=J2l6bz_wqkk), par exemple 合う s'utilise avec に pas を
   - Verbes qui expriment un changement utilisent に : なる ou 変わる
 - Depuis : から
