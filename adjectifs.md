@@ -11,6 +11,7 @@
 - Content : 嬉しい、うれしい
 - Court, bref : 短い、みじかい
 - Difficile : 難しい、むずかしい
+- Difficile (situation, pas exercice) : 大変、たいへん
 − Douloureux : 痛い、いたい
 - Doux (température) : 暖かい, 温かい
 - Facile, aisé : 簡単、かんたん (na)
