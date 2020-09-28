@@ -5,9 +5,10 @@
 - Mais : でも
 - D'accord : 了解, りょうかい (です)
 
-- S'il vous plait : kudasai
+- S'il vous plait : ください
 - Merci : ありがとう
 - Merci beaucoup : どもありがとう
+- Non merci : いいえ、けっこうです (dans le sens de _I'm fine_)
 - Pardon : すみません
 - Je vous en prie : どうぞ
 
