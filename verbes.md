@@ -19,6 +19,9 @@
 - Demander : 聞く、きく (comme entendre)
 - Détester :　嫌い、きらい です
 - Devenir : 成る、なる
+  - Nom + になります
+  - Adjectif en –な (sans le な) + になります
+  - Adjectif en –い (sans le い) + くなります
 - Dire : 言う、いう
 - Se diriger vers : 向かう、むかう
 - Donner : あげる、上げる
@@ -47,6 +50,8 @@
 - Poser, mettre : 置く、おく
 - Pousser : 押す、おす
 - Pouvoir : 出来る、できる
+  - Sujet は Objet が できます
+  - Sujet は Verbe en -う + ことが できます
 - Prêter : 貸す、かす
 - Protéger : 守る、まもる
 - Recevoir : もらう、貰う
@@ -102,7 +107,7 @@ J'étudie à la maison
 Ashita uchi de tomodachi to pâti o shimasu  
 Demain je fais la fête à la maison avec des amis
 
-## -て form
+## Forme en -て
 
 - Groupe 3
   - する : します : して
@@ -133,14 +138,55 @@ Ou comme ça :
 
 ### Usages
 
-- Ordre : 食べて下さい、たべてください
-- En train de se produit, comme la forme "ing" de l'anglais : 食べています
+- Donner un ordre : 食べて下さい、たべてください
+- Être en train de faire, comme la forme "ing" de l'anglais : 食べています
+- Demander l'autorisation : 食べてもいいですか
+- Interdire : 食べてはいけません
 - S'est produit : 食べてあります
 - Fait à l'avance : 書いておきます
 - Essayer de faire pour voir le résultat : たべてみます
 - Va se produire : たべていきます
 - Vouloir faire : 食べてほしい
-- ...
+- Enchainer les actions : chaque verbe en -て et la conjugaison sur le dernier
+  - 朝ごはんをたべて、うちをでて、ジョギングをします。
+  - きのう母にでんわをかけて、テレビを見て、ねました。
+- Après avoir fait, je fais ça : 食べてから
+  - スポーツをしてから、シャワーをあびました。
+
+## Forme en -ない
+
+- 1er groupe : la syllabe précédent le -ます se change en か, さ, わ... + -ない
+  - 書かない, 飲まない, 買わない
+- 2e groupe : -ます est remplacé par -ない
+  - 食べない, 見せない, 見ない
+- 3e groupe : -ます est remplacé par -ない
+   - しない
+   - 来ない = こない, attention avec こ !
+
+### Usages
+
+- Donner un ordre à la forme négative : -ないでください
+- Être dans l’obligation de faire quelque chose : ない (sans le い) + -ければなりません
+  - びょういんへ行かなければなりません。
+- Ce n’est pas la peine de le faire : ない (sans le い) + くてもいいです
+
+## Forme en -た
+
+- Même règles que pour -て
+
+### Usages
+
+- Avoir déjà fait ça : Verbe -た + ことがあります
+  - 日本へ行ったことがあります。
+- Donner une liste non exhaustive de plusieurs actions réalisées : Verbe -た + りします
+  - 父はりょうりしたり、せんたくしたりします。
+  - きのうテレビを見たり、シャワーをあびたり、本をよんだりしました。
+
+## Divers
+
+- Avant de faire ça
+  - Nom + のまえに
+  - Verbe en -う+ まえに
 
 ## TomAru vs TomEru
 
