@@ -77,7 +77,7 @@
 [http://www.crapulescorp.net/japonais/cours/verbes/les_trois_groupes_verbaux.php5]
 
 - 1er : tous sauf -iru et -eru et suru et kuru
-- 2er : -iru et -eru sauf kaeru
+- 2er : -iru et -eru [sauf kaeru et quelques exceptions](https://www.freejapaneselessons.com/reigai.cfm)
 - 3e : suru et kuru
 
 ## Conjugaison
