@@ -114,7 +114,7 @@ Demain je fais la fête à la maison avec des amis
   - 来る :  きます : きて
 - Groupe 2 (-えます, certains -います et racine mono-syllabe)
   -  : -て
-- Groupe 3
+- Groupe 1
   - -み, -に, -び (+ます) : -んで
   - -き et -ぎ (+ます) : -いて et -いで
   - sauf 行く : いきます : いって
@@ -168,7 +168,7 @@ Ou comme ça :
 - Donner un ordre à la forme négative : -ないでください
 - Être dans l’obligation de faire quelque chose : ない (sans le い) + -ければなりません
   - びょういんへ行かなければなりません。
-- Ce n’est pas la peine de le faire : ない (sans le い) + くてもいいです
+- Ce n’est pas la peine de le faire : -なくてもいいです
 
 ## Forme en -た
 
@@ -182,6 +182,16 @@ Ou comme ça :
   - 父はりょうりしたり、せんたくしたりします。
   - きのうテレビを見たり、シャワーをあびたり、本をよんだりしました。
 
+## Nominaliser les verbes
+
+- Forme neutre + こと : avec les verbes です, できる . On utilise aussi こと si il s'agit de quelque chose qui est dit (il est dit que...), espéré, prié, ordonné... 
+- Forme neutre + の : pour des choses qui sont vues, entendues, ressenties directement par le locuteur ou avec les verbes aider, attendre... 
+
+Ex : お父さんは本を読むことが大好きです。
+
+Voir aussi : http://www.crapulescorp.net/japonais/cours/grammaire/nominalisation_des_verbes.php5
+
+
 ## Divers
 
 - Avant de faire ça
@@ -191,11 +201,6 @@ Ou comme ça :
 ## TomAru vs TomEru
 
 https://www.lingual-ninja.com/2018/10/how-to-say-stop-in-japanese-tomaru.html?m=1
-
-## Nominaliser les verbes
-
-Avec les particules koto ou no
-http://www.crapulescorp.net/japonais/cours/grammaire/nominalisation_des_verbes.php5
 
 ## Verbes intransitifs / transitifs
 
