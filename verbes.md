@@ -182,7 +182,9 @@ Ou comme ça :
   - 父はりょうりしたり、せんたくしたりします。
   - きのうテレビを見たり、シャワーをあびたり、本をよんだりしました。
 
-## Nominaliser les verbes
+## Forme neutre
+
+### Nominaliser les verbes
 
 - Forme neutre + こと : avec les verbes です, できる . On utilise aussi こと si il s'agit de quelque chose qui est dit (il est dit que...), espéré, prié, ordonné... 
 - Forme neutre + の : pour des choses qui sont vues, entendues, ressenties directement par le locuteur ou avec les verbes aider, attendre... 
@@ -191,12 +193,27 @@ Ex : お父さんは本を読むことが大好きです。
 
 Voir aussi : http://www.crapulescorp.net/japonais/cours/grammaire/nominalisation_des_verbes.php5
 
+### Avant de faire ça
 
-## Divers
+Forme neutre + まえに
 
-- Avant de faire ça
-  - Nom + のまえに
-  - Verbe en -う+ まえに
+Attention, cette tournure nécessite の si utilisée avec un nom : Nom + のまえに
+
+### Un nom qualifié par une phrase
+
+- 日本へ行く人
+- 日本へ行った人
+- 日本へ行かなかった人
+- 日本へ行ったことがある人...
+- あのめがねをかけている人は山田さんです。
+
+### Avoir le temps de faire quelque chose
+
+Verbe neutre + 時間 / やくそく / ようじ
+
+- 私は朝ご飯を食べる時間がありません。: Je n’ai pas le temps de prendre mon petit-déjeuner.
+- 私はともだちとえいがを見るやくそくがあります。: J’ai rendez-vous avec un ami pour regarder un film.
+- 今日は東京へ行くようじがあります。: J’ai quelque chose à faire à Tôkyô aujourd’hui.
 
 ## TomAru vs TomEru
 
