@@ -20,7 +20,9 @@
 - Possesion, relation : の
 - Et / avec (énumération pas forcément exhaustive mais quand-meme) : と
 - Citer avec guillemets : と
-  - アリスが、「寒い」と言った。 
+  - アリスが、「寒い」と言った。
+- Citer sans guillemets : と
+  - 母は魚が好きじゃないといいました。
 - Et / avec (énumération non-exhaustive) : や
 - Complément d'objet direct (quoi) : を
 - Complément d'objet indirect (à qui, contre qui...) : に
