@@ -201,6 +201,8 @@ Attention, cette tournure nécessite の si utilisée avec un nom : Nom + のま
 
 ### Un nom qualifié par une phrase
 
+Forme neutre + nom
+
 - 日本へ行く人
 - 日本へ行った人
 - 日本へ行かなかった人
