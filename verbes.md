@@ -152,6 +152,10 @@ Ou comme ça :
   - きのう母にでんわをかけて、テレビを見て、ねました。
 - Après avoir fait, je fais ça : 食べてから
   - スポーツをしてから、シャワーをあびました。
+- Même si : Verbe en -て + も、phrase « normale »
+  - Adjectif en い sans le い + くて + も、phrase « normale »
+  - Adjectif en な sans le な + で + も、phrase « normale »
+  - Nom + で + も、phrase « normale »
 
 ## Forme en -ない
 
@@ -181,6 +185,13 @@ Ou comme ça :
 - Donner une liste non exhaustive de plusieurs actions réalisées : Verbe -た + りします
   - 父はりょうりしたり、せんたくしたりします。
   - きのうテレビを見たり、シャワーをあびたり、本をよんだりしました。
+- Conditon : verbe et -た + ら (ou adjectif en -かった + ら)
+  - 雨がふったら、お花見をしません。
+  - 安かったら、パソコンを買います。
+  - ひまだったら、てつだってください。
+- Quand... / Après... : comme condition, verbe et -た + ら (ou adjectif en -かった + ら)
+  - 家へ帰ったら、シャワーをあびます。
+  - 会社をやめたら、いなかにすみたいです。
 
 ## Forme neutre
 
