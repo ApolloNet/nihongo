@@ -156,6 +156,7 @@ Ou comme ça :
   - Adjectif en い sans le い + くて + も、phrase « normale »
   - Adjectif en な sans le な + で + も、phrase « normale »
   - Nom + で + も、phrase « normale »
+  - 雨が降らなくても : même s'il ne pleut pas
 
 ## Forme en -ない
 
@@ -189,6 +190,7 @@ Ou comme ça :
   - 雨がふったら、お花見をしません。
   - 安かったら、パソコンを買います。
   - ひまだったら、てつだってください。
+  - 雨が降らなかったら : s'il ne pleut pas
 - Quand... / Après... : comme condition, verbe et -た + ら (ou adjectif en -かった + ら)
   - 家へ帰ったら、シャワーをあびます。
   - 会社をやめたら、いなかにすみたいです。
