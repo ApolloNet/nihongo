@@ -9,6 +9,7 @@
 - Sujet du verbe : が
   - Toujours avec いる et ある
 - Lieu (dans lequel il ne se passe rien / avec verbe de présence : いる　et ある) : に
+  - Aussi : tatsu, suwaru, sumu, tomaru
 - Lieu (dans lequel il se passe une action / avec verbe d'action) : で
 - Lieu parcouru (avec verbe de déplacement) : を
   - Exemple : 鳥は空を飛ぶ ou 私は公園を歩く ou 魚は海を泳ぐ
