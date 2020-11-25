@@ -194,6 +194,8 @@ Ou comme ça :
 - Quand... / Après... : comme condition, verbe et -た + ら (ou adjectif en -かった + ら)
   - 家へ帰ったら、シャワーをあびます。
   - 会社をやめたら、いなかにすみたいです。
+- Donner un conseil, tu devrais faire ça (ça serait mieux si...) : -た + 方(ほう)が いい です
+  - 早く寝た方がいいですよ。
 
 ## Forme neutre
 
