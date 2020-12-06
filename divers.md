@@ -33,6 +33,7 @@
 - Lettre : 手紙、てがみ
 - Livre : 本、ほん
 - Magazine : 雑誌、ざっし
+- Morceau de musique : 曲、キョク
 - Ordinateur : パソコン
 - Photo : 写真、しゃしん
 - Radio : ラジオ
