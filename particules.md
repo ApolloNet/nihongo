@@ -1,5 +1,7 @@
 # Particules
 
+TODO: prendre notes de cette vidéo bien dense : https://www.youtube.com/watch?v=4veZs0wfaJQ
+
 - Thème de la phrase : は
 - Aussi : も ([voir ici](https://youtu.be/_YWoTxOusKw?t=305))
   - Remplace は, が ou を
@@ -26,6 +28,7 @@
   - 母は魚が好きじゃないといいました。
 - Et / avec (énumération non-exhaustive) : や
 - Complément d'objet direct (quoi) : を
+  - Impossible avec un verbe de présence です、いる...
 - Complément d'objet indirect (à qui, contre qui...) : に
   - Désigne destinataire et envoyeur, avec 出す、もらう、上げる...
   - [Attention aux pièges](https://www.youtube.com/watch?v=J2l6bz_wqkk), par exemple 合う s'utilise avec に pas を
