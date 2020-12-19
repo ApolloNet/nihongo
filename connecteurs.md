@@ -69,6 +69,7 @@ En début de phrase, contrairement aux particules précédentes.
 - そして : union (et)
 - その上、そのうえ : ajout (de plus)
 - あるいは : choix (ou bien)
+- それとも : ou
 - しかし : opposition (mais)
 - 逆に、ギャクに : propos inverse (inversement, au contraire)
 - それで : conséquence (donc)
