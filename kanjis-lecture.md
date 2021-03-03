@@ -78,3 +78,10 @@ Kanjis combinés à lecture purement japonaise phonétique :
 Deux écritures pour un même mot :
 
 - Oeuf : 卵 ou 玉子, たまご (contrairement à 鶏 !)
+
+## Types de kanjis
+
+TODO
+
+- https://japanesecomplete.com/articles/?p=674
+- https://yurai.fr/2020/04/26/classification-etymologique-des-kanjis/
