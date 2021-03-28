@@ -73,6 +73,17 @@ Utilisées pour les classificateurs.
 
 À quelle fréquence : なんかい VS なんがい : quel étage
 
+## Opérations
+
+- Additionner : 足す、たす
+- Soustraire : 引く、ひく
+- Multiplier : 掛ける、かける
+- Diviser : 割る、わる
+
+Chiffre Verbe Chiffre は Total です / になります
+
+Exemple : ４０　ひく　８　は　３２　です。
+
 ## Liens
 
 https://fr.wikibooks.org/wiki/Japonais/Vocabulaire/Nombres
