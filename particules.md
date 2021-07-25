@@ -6,8 +6,8 @@ TODO: prendre notes de cette vidéo bien dense : https://www.youtube.com/watch?v
 - Aussi : も ([voir ici](https://youtu.be/_YWoTxOusKw?t=305))
   - Remplace は, が ou を
   - Se place après les autres particules
-- Appuyer une négation : も
-  - Ex : 何もありません
+- Appuyer l'étonnement : も
+  - Ex : 弟は毎日漢字の練習を四時間**も**します。
 - Sujet du verbe : が
   - Toujours avec いる et ある
 - Lieu (dans lequel il ne se passe rien / avec verbe de présence : いる　et ある) : に
