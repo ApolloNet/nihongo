@@ -147,6 +147,11 @@ Ou comme ça :
 - Essayer de faire pour voir le résultat : たべてみます
 - Va se produire : たべていきます
 - Vouloir faire : 食べてほしい
+- Faire jusqu'au bout, jusqu'à terme : 食べてしまいます
+  - Avec しまう : ranger, mettre un terme
+  - J'ai complètement oublié : 忘れてしまった。
+  - Je vais tout manger : 食べてしまう。
+  - J'ai lu jusqu'au bout : 読んでしまいました。
 - Enchainer les actions : chaque verbe en -て et la conjugaison sur le dernier
   - 朝ごはんをたべて、うちをでて、ジョギングをします。
   - きのう母にでんわをかけて、テレビを見て、ねました。
