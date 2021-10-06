@@ -115,8 +115,8 @@ Demain je fais la fête à la maison avec des amis
 - Groupe 2 (-えます, certains -います et racine mono-syllabe)
   -  : -て
 - Groupe 1
+  - -ち, -い, -り (+ます) : -って
   - -み, -に, -び (+ます) : -んで
-  - -ち, -い, -り : -って
   - -き et -ぎ (+ます) : -いて et -いで
   - sauf 行く : いきます : いって
   - します : して
