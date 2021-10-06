@@ -116,10 +116,10 @@ Demain je fais la fête à la maison avec des amis
   -  : -て
 - Groupe 1
   - -み, -に, -び (+ます) : -んで
+  - -ち, -い, -り : -って
   - -き et -ぎ (+ます) : -いて et -いで
   - sauf 行く : いきます : いって
   - します : して
-  - les autres (-ち, -い, -り) : -って
 
 Ou comme ça :
 
