@@ -80,6 +80,15 @@ j'aime les chiens
 
 kono kanji wa kantan desu
 
+## Liaison entre adjectifs
+
+[Voir ici](https://guidedujaponais.fr/classes-mots/les-adjectifs/liaison-entre-adjectifs-japonais/)
+
+- A い + A い => A く て A い
+- A い + A な => A く て A (な Nom)
+- A な/Nom + A い => A で Aい
+- A な/Nom + A な => A で A (な Nom)
+
 ## Négation
 
 Voir negation.md
