@@ -64,3 +64,26 @@
 - Voler (dans les airs) : 飛ぶ、とぶ
 - Voler, dérober : 盗む、ぬすむ
 - Vomir : 吐く、はく
+
+## Actions
+
+- Agiter : 振る、ふる
+- Allonger : 伸ばす、のばす
+- Courir : 走る、はしる
+- Donner un coup de pied : ける
+- Faire le poirier : 逆立ちする、さかだちする
+- Grimper : 登る、のぼる
+- Lancer, jeter : 投げる、なげる
+- Lever, souelever : 持ち上げる、もちあげる
+- Nager : 泳ぐ、およぐ
+- Plier : 曲げる、まげる
+- Plonger : もぐる
+- Plonger dans :　飛び込む、とびこむ
+- Pousser : 押す、おす
+- Ramper, marcher à quatre pattes :　はう
+- Sauter : 跳ぶ、とぶ
+- Se retourner : 振り向く、ふりむく
+- Taper, frapper : たたく
+- Tirer : 引く、ひく
+- Tomber à terre : 転ぶ、ころぶ
+- Voler : 飛ぶ、とぶ
