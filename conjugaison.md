@@ -37,7 +37,9 @@ Ordre des blocs pour construire une phrase : Temps, lieu, avec qui (COI), quoi (
 
 ## Forme en -て
 
-### Groupe 1
+### Conjugaison
+
+Groupe 1
 
 - -ち, -い, -り (+ます) => **-って**
 - -み, -に, -び (+ます) => **-んで**
@@ -46,41 +48,82 @@ Ordre des blocs pour construire une phrase : Temps, lieu, avec qui (COI), quoi (
 - Exception : 行きます => **いって**
 - します => **して**
 
-### Groupe 2
+Groupe 2
 
 - ます => **-て**
 
-### Groupe 3
+Groupe 3
 
 - します : **して**
 - 来ます : **きて**
 
-### Usages
+### Donner un ordre : -て下さい
 
-- Donner un ordre : 食べて下さい、たべてください
-- Être en train de faire, comme la forme "ing" de l'anglais : 食べています
-- Demander l'autorisation : 食べてもいいですか
-- Interdire : 食べてはいけません
-- S'est produit : 食べてあります
-- Fait à l'avance : 書いておきます
-- Essayer de faire pour voir le résultat : たべてみます
-- Va se produire : たべていきます
-- Vouloir faire : 食べてほしい
-- Faire jusqu'au bout, jusqu'à terme : 食べてしまいます
-  - Avec しまう : ranger, mettre un terme
-  - J'ai complètement oublié : 忘れてしまった。
-  - Je vais tout manger : 食べてしまう。
-  - J'ai lu jusqu'au bout : 読んでしまいました。
-- Enchainer les actions : chaque verbe en -て et la conjugaison sur le dernier
-  - 朝ごはんをたべて、うちをでて、ジョギングをします。
-  - きのう母にでんわをかけて、テレビを見て、ねました。
-- Après avoir fait, je fais ça : 食べてから
-  - スポーツをしてから、シャワーをあびました。
-- Même si : Verbe en -て + も、phrase « normale »
-  - Adjectif en い sans le い + くて + も、phrase « normale »
-  - Adjectif en な sans le な + で + も、phrase « normale »
-  - Nom + で + も、phrase « normale »
-  - 雨が降らなくても : même s'il ne pleut pas
+食べて下さい、たべてください
+
+### Être en train de faire : -ています
+
+Comme la forme "ing" de l'anglais
+
+食べています
+
+### Demander l'autorisation : -てもいいですか
+
+食べてもいいですか
+
+### Interdire : -てはいけません
+
+食べてはいけません
+
+### S'est produit : -てあります
+
+食べてあります
+
+### Fait à l'avance : -ておきます
+
+書いておきます
+
+### Essayer pour voir : -てみます
+
+たべてみます
+
+### Va se produire : -ていきます
+
+たべていきます
+
+### Vouloir faire : -てほしい
+
+食べてほしい
+
+### Faire jusqu'au bout, jusqu'à terme : -てしまいます
+
+食べてしまいます
+
+- Avec しまう : ranger, mettre un terme
+- J'ai complètement oublié : 忘れてしまった。
+- Je vais tout manger : 食べてしまう。
+- J'ai lu jusqu'au bout : 読んでしまいました。
+
+### Enchainer les actions : -て
+
+Chaque verbe en -て et la conjugaison sur le dernier
+
+- 朝ごはんをたべて、うちをでて、ジョギングをします。
+- きのう母にでんわをかけて、テレビを見て、ねました。
+
+### Après avoir fait, je fais ça : -てから
+
+- 食べてから
+- スポーツをしてから、シャワーをあびました。
+
+### Même si : -ても
+
+Verbe en -て + も、phrase « normale »
+
+- Adjectif en い sans le い + くて + も、phrase « normale »
+- Adjectif en な sans le な + で + も、phrase « normale »
+- Nom + で + も、phrase « normale »
+- 雨が降らなくても : même s'il ne pleut pas
 
 ## Forme en -ない
 
