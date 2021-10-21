@@ -1,6 +1,11 @@
-# Connecteurs logiques
+# Liaisons
 
-## Connecter des noms
+## Adjectifs
+
+- Adjectif -い => Adjectif -くて
+- Adjectif -な => Adjectif -で
+
+## Noms
 
 ### と : énumération
 
@@ -27,7 +32,7 @@ Utilisé pour donner un conseil, par exemple.
 - か et なり connectent des noms ou des verbes
 - Il y a d'autres particules en plus de ces 4 là
 
-## Connecter des propositions
+## Propositions
 
 ### Concession (bien que)
 
