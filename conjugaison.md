@@ -144,25 +144,44 @@ Verbe en -て + も、phrase « normale »
 
 ## Forme en -た
 
-- Même règles que pour -て
+### Conjugaison
 
-### Usages
+Même règles que pour -て
 
-- Avoir déjà fait ça : Verbe -た + ことがあります
-  - 日本へ行ったことがあります。
-- Donner une liste non exhaustive de plusieurs actions réalisées : Verbe -た + りします
-  - 父はりょうりしたり、せんたくしたりします。
-  - きのうテレビを見たり、シャワーをあびたり、本をよんだりしました。
-- Conditon : verbe et -た + ら (ou adjectif en -かった + ら)
-  - 雨がふったら、お花見をしません。
-  - 安かったら、パソコンを買います。
-  - ひまだったら、てつだってください。
-  - 雨が降らなかったら : s'il ne pleut pas
-- Quand... / Après... : comme condition, verbe et -た + ら (ou adjectif en -かった + ら)
-  - 家へ帰ったら、シャワーをあびます。
-  - 会社をやめたら、いなかにすみたいです。
-- Donner un conseil, tu devrais faire ça (ça serait mieux si...) : -た + 方(ほう)が いい です
-  - 早く寝た方がいいですよ。
+### Avoir déjà fait ça : -た + ことがあります
+
+日本へ行ったことがあります。
+
+### Donner une liste non exhaustive de plusieurs actions : -たり + します
+
+Exemples d'actions typiques.  
+Un peu comme la particule や pour les noms.
+
+- 父はりょうりしたり、せんたくしたりします。
+- きのうテレビを見たり、シャワーをあびたり、本をよんだりしました。
+
+### Conditon : -たら
+
+Ou adjectif en -かった + ら
+
+- 雨がふったら、お花見をしません。
+- 安かったら、パソコンを買います。
+- ひまだったら、てつだってください。
+- 雨が降らなかったら : s'il ne pleut pas
+
+### Quand... / Après... : -たら
+
+Ou adjectif en -かった + ら  
+Comme condition.  
+
+- 家へ帰ったら、シャワーをあびます。
+- 会社をやめたら、いなかにすみたいです。
+
+### Donner un conseil : -た + ほうが いい です
+
+Tu devrais faire ça (ça serait mieux si...)
+
+- 早く寝た方がいいですよ。
 
 ## Forme du dictionnaire
 
