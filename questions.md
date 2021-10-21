@@ -1,43 +1,81 @@
 # Questions
 
-## Divers
+## Pronoms interrogatifs
 
-- WTF, "à la fin", "que diable" : 一体、イッタイ
+### Qui ?
 
-## Mots interrogatifs
+- 誰、だれ
+- Poli : どなた
+- Poli : どちら
+- Poli++ : どちら様、どちらさま
+ 
+ ### De qui ? À qui ?
+ 
+- 誰の、だれの
 
-- Qui : 誰、だれ
-  - Poli : どなた
-  - Poli : どちら
-  - Poli++ : どちら様、どちらさま
-- De qui, à qui : 誰の
-- Où : どこ、何処
-  - Poli : どちら
-- Quoi, que : 何、なに (ou なん devant les kanas en t, d et n et dans les mots composés)
-- Quand : いつ
-  - Jusqu'à quand : いつまで
-- Lequel (laquelle, lesquels, lesquelles) : どれ
-  - Poli : どちら
-  - Choix d'un élément parmi deux : どちら (ou familier : どっち)
-  - Choix d'un élément parmi trois ou plus : どれ
-  - La liste est connectée avec des と et est préfixée par の
-  - あなたはワインとビルのどちらをのむ？
-  - あなたはワインとビルとウイスキーのどれをのむ？
-  - Ci-dessus, on peut aussi utiliser どのお酒 ou 何 
-  - Et aussi : あなたはこのお酒の中でどれをのむ？
-- Quel (quelle, quels, quelles) : どの
-- Vers où, quelle direction : どちら
-  - Familier : どっち
+### Où ?
+
+- どこ、何処
+- Poli : どちら
+
+### Quoi, que ?
+
+何、なに
+
+Ou なん devant les kanas en t, d et n et dans les mots composés
+
+### Quand ?
+
+- いつ
+- Jusqu'à quand : いつまで
+
+### Lequel ?
+
+- Lequel, laquelle, lesquels, lesquelles
+- どれ
+- Poli : どちら
+- Choix d'un élément parmi deux : どちら (ou familier : どっち)
+- Choix d'un élément parmi trois ou plus : どれ
+- La liste est connectée avec des と et est préfixée par の
+- あなたはワインとビルのどちらをのむ？
+- あなたはワインとビルとウイスキーのどれをのむ？
+- Ci-dessus, on peut aussi utiliser どのお酒 ou 何 
+- Et aussi : あなたはこのお酒の中でどれをのむ？
+
+### Quel ?
+
+- Quel, quelle, quels, quelles
+- どの
+
+### Vers où ? Dans quelle direction ?
+
+- どちら
+- Familier : どっち
+
+### Comment ?
+
+- どう
+- Formel : いかが
+
+### Quel genre ?
+
 - Quel genre/type/sorte : どんな
-- À quel point : どんなに
-- Comment : どう
-  - Formel : いかが
-- Combien (prix, ...) : いくら
-  - Combien de choses : いくつ
-- Combien de temps : どの位、どのくらい
-- Pourquoi : どうして
 
-## 何
+### À quel point ?
+
+- À quel point : どんなに
+
+### Combien ?
+
+- Combien (prix, ...) : いくら
+- Combien de choses : いくつ
+- Combien de temps : どの位、どのくらい
+
+### Pourquoi ?
+
+- どうして
+
+### 何
 
 - Quel âge : 何歳、なんさい ou おいくつ
 - Quel numéro : 何番、なんばん (les numéros de tél, de chambre... se lisent chiffre par chiffre, quelle position dans une liste)
@@ -76,3 +114,7 @@ Attention, la  particule grammaticale peut s'intercaler : 香はどこ**に**も
 - N'importe où / partout : どこでも
 - N'importe quoi / tout : 何でも
 - N'importe quand / à tout moment : いつでも
+
+## Divers
+
+- WTF, "à la fin", "que diable" : 一体、イッタイ
