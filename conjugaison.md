@@ -125,23 +125,6 @@ Verbe en -て + も、phrase « normale »
 - Nom + で + も、phrase « normale »
 - 雨が降らなくても : même s'il ne pleut pas
 
-## Forme en -ない
-
-- 1er groupe : la syllabe précédent le -ます se change en か, さ, わ... + -ない
-  - 書かない, 飲まない, 買わない
-- 2e groupe : -ます est remplacé par -ない
-  - 食べない, 見せない, 見ない
-- 3e groupe : -ます est remplacé par -ない
-   - しない
-   - 来ない = こない, attention avec こ !
-
-### Usages
-
-- Donner un ordre à la forme négative : -ないでください
-- Être dans l’obligation de faire quelque chose : ない (sans le い) + -ければなりません
-  - びょういんへ行かなければなりません。
-- Ce n’est pas la peine de le faire : -なくてもいいです
-
 ## Forme en -た
 
 ### Conjugaison
@@ -182,6 +165,33 @@ Comme condition.
 Tu devrais faire ça (ça serait mieux si...)
 
 - 早く寝た方がいいですよ。
+
+## Forme en -ない
+
+### Conjugaison
+
+1er groupe
+
+- La syllabe précédent le -ます se change en か, さ, わ... + -ない  
+- Exemples : 書かない, 飲まない, 買わない
+
+2e groupe
+
+- -ます est remplacé par -ない
+- 食べない, 見せない, 見ない
+
+3e groupe
+
+- -ます est remplacé par -ない
+- しない
+- 来ない = こない, **attention avec こ**
+
+### Usages
+
+- Donner un ordre à la forme négative : -ないでください
+- Être dans l’obligation de faire quelque chose : ない (sans le い) + -ければなりません
+  - びょういんへ行かなければなりません。
+- Ce n’est pas la peine de le faire : -なくてもいいです
 
 ## Forme du dictionnaire
 
