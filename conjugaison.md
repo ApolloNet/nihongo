@@ -2,6 +2,31 @@
 
 Ordre des blocs pour construire une phrase : Temps, lieu, avec qui (COI), quoi (COD), verbe
 
+## Passé, présent, futur
+
+### Verbes
+
+- Présent & futur affirmatif : します
+- Présent & futur négatif : しいません
+- Passé affirmatif : しました
+- passé négatif : しません　でした
+
+### Noms et adjectifs en -な
+
+- Présent & futur affirmatif : 雨です。しずかです。
+- Présent & futur négatif : 雨じゃありません。しずかじゃありません。
+- Passé affirmatif : 雨でした。しずかでした。
+- passé négatif : 雨じゃありませんでした。しずかじゃありませんでした。
+
+**じゃ**ありませんでした c'est pareil que **では**ありませんでした qui est un peu plus soutenu.
+
+### Adjectifs en -い
+
+- Présent & futur affirmatif : 暑い
+- Présent & futur négatif : 暑くない
+- Passé affirmatif : 暑かった
+- passé négatif : 暑くなかった
+
 ## Les 3 groupes
 
 [http://www.crapulescorp.net/japonais/cours/verbes/les_trois_groupes_verbaux.php5]
@@ -9,13 +34,6 @@ Ordre des blocs pour construire une phrase : Temps, lieu, avec qui (COI), quoi (
 - 1er : tous sauf -iru et -eru et suru et kuru
 - 2er : -iru et -eru [sauf kaeru et quelques exceptions](https://www.freejapaneselessons.com/reigai.cfm)
 - 3e : suru et kuru
-
-## Passé, présent, futur
-
-- Présent & futur affirmatif : します
-- Présent & futur négatif : しいません
-- Passé affirmatif : しました
-- passé négatif : しません　でした
 
 ## Forme en -て
 
