@@ -186,12 +186,13 @@ Tu devrais faire ça (ça serait mieux si...)
 - しない
 - 来ない = こない, **attention avec こ**
 
-### Usages
+### Donner un ordre à la forme négative : -ないでください
 
-- Donner un ordre à la forme négative : -ないでください
-- Être dans l’obligation de faire quelque chose : ない (sans le い) + -ければなりません
-  - びょういんへ行かなければなりません。
-- Ce n’est pas la peine de le faire : -なくてもいいです
+### Être dans l’obligation de faire quelque chose : -なければなりません
+
+- びょういんへ行かなければなりません。
+
+### Ce n’est pas la peine de le faire : -なくてもいいです
 
 ## Forme du dictionnaire
 
