@@ -13,7 +13,8 @@
 - Horaire : 時刻表、じこくひょう
 - Logiciel : ソフト
 - Professeur : 先生、せんせい
-- Question : 質問、しつもん
+- Question (posée) : 質問、しつもん
+- Question (exercice) : 問題、もんだい
 - Rapport, compte-rendu : レポート
 - Réunion : 会議、かいぎ
 - Salle de cours : 教室、きょうしつ
