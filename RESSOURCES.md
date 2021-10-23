@@ -17,6 +17,11 @@
 - [La bonne intonation des mots japonais](https://www.youtube.com/watch?v=2BDme2oebH8)
 - [accent.u-biq.org](https://accent.u-biq.org/) : dictionnaire des intonations
 
+## Dictionnaires et traductions
+
+- [https://takoboto.jp/](Takoboto)
+- [https://www.excite.co.jp/world/french/](Excite translator)
+
 ## Android Apps
 
 - [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto)
