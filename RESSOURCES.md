@@ -19,8 +19,8 @@
 
 ## Dictionnaires et traductions
 
-- [https://takoboto.jp/](Takoboto)
-- [https://www.excite.co.jp/world/french/](Excite translator)
+- [Takoboto](https://takoboto.jp/)
+- [Excite translator](https://www.excite.co.jp/world/french/)
 
 ## Android Apps
 
