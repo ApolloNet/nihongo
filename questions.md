@@ -82,6 +82,14 @@ Ou なん devant les kanas en t, d et n et dans les mots composés
 - Quel étage : なんがい
 - ...
 
+### いかが、如何
+
+1. Pour demander si ça va, plus poli que お元気ですが。
+
+2. Pour demander si tu veux quelque chose, comme V+ませんか mais plus poli
+アイスクリーム は いかが ですか。
+Voulez-vous de la glace ?
+
 ## Mots indéfinis
 
 Les indéfinis obtenus avec l'ajout de も ou でも s'emploient sans particule.
