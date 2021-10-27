@@ -17,6 +17,7 @@
 - Question (exercice) : 問題、もんだい
 - Rapport, compte-rendu : レポート
 - Réunion : 会議、かいぎ
+- Révision : 復習、ふくしゅ
 - Salle de cours : 教室、きょうしつ
 - Salle de réunion : 会議室、かいぎしつ
 - Université : 大学、だいがく
