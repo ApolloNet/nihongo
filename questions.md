@@ -29,15 +29,20 @@ Ou なん devant les kanas en t, d et n et dans les mots composés
 ### Lequel ?
 
 - Lequel, laquelle, lesquels, lesquelles
-- どれ
-- Poli : どちら
-- Choix d'un élément parmi deux : どちら (ou familier : どっち)
-- Choix d'un élément parmi trois ou plus : どれ
-- La liste est connectée avec des と et est préfixée par の
-- あなたはワインとビルのどちらをのむ？
-- あなたはワインとビルとウイスキーのどれをのむ？
-- Ci-dessus, on peut aussi utiliser どのお酒 ou 何 
-- Et aussi : あなたはこのお酒の中でどれをのむ？
+- どちら : entre ça et ça, lequel...?
+  - N1 と　N2　と　おちらが ADJ ですか。
+  - N1/N2　の　方(ほう)が　ADJ です。
+  - (ou familier : どっち)
+- どれ : choix parmi 3 éléments ou plus
+  - ミラさんの　傘は　どれですか。
+- どの pour modifier un nom, pas どれ
+  - みらさんは　どの人　ですか。
+- Et aussi
+  - La liste est connectée avec des と et est préfixée par の
+  - あなたは ワインと ビルの どちらを のむ？
+  - あなたは ワインと ビルと ウイスキーの どれを のむ？
+  - Ci-dessus, on peut aussi utiliser どのお酒 ou 何 
+  - Et aussi : あなたはこの お酒の中で どれを のむ？
 
 ### Quel ?
 
@@ -48,6 +53,10 @@ Ou なん devant les kanas en t, d et n et dans les mots composés
 
 - どちら
 - Familier : どっち
+
+### Comment aller à ?
+
+- どうやって
 
 ### Comment ?
 
