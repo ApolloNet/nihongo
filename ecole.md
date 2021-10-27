@@ -3,6 +3,7 @@
 - Bureau (lieu) : 事務所、じむしょ
 - Cantine, restaurant : 食堂、しょくどう
 - Classe : クラス
+- Conversation : 会話、かいわ
 - Devoir (faire ses devoirs) : 宿題、しゅくだい
 - Documents, données : 資料、しりょう
 - École : 学校、がっこう
@@ -11,6 +12,8 @@
 - Étudiant étranger : 留学生、りゅうがくせい
 - Examen : 試験、しけん
 - Horaire : 時刻表、じこくひょう
+- Lecture : 読書、 どくしょ
+- Lettre (de l'alphabet) : 文字、もじ
 - Logiciel : ソフト
 - Professeur : 先生、せんせい
 - Question (posée) : 質問、しつもん
