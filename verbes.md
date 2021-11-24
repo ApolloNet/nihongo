@@ -5,6 +5,7 @@
 - Apprendre (recevoir l'enseignement) : 習う、ならう
 - Arriver : 着く、つく
 - Avancer, progresser : 進む、すすむ
+- Avoir besoin de : 要る、いる
 - Se battre : 戦う、たたかう (adversaire indiqué avec la particule と)
 - Boire : 飲む、のむ
 - Brûler : 燃える、もえる (intransitif)
@@ -28,6 +29,7 @@
 - Envoyer : 送る、おくる
 - Être (vivant et animé) : いる
 - Être (non vivant ou inanimé) : ある
+- Examiner, consulter, rechercher : 調べる、しらべる
 - Faire : する
 - Fumer : 吸う、すう
 - Imaginer : 想像する、そうぞうする
@@ -51,6 +53,7 @@
 - Regarder : 見る、みる
 - Rencontrer : 合う、あう
 - Rentrer chez soi : 帰る、かえる
+- Réparer : 修理する、しゅうりします
 - Rester : 残る、のこる
 - Revenir, retourner : 戻る、もどる
 - Savoir : 知る、しる
