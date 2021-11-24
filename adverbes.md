@@ -43,6 +43,7 @@ Les adverbes sont souvent écrits en hiragana.
 - D'abord : まず
 - De temps en temps : 時々
 - Déjà : もう
+- Divers, varié : 色々、いろいろ
 - En dernier : 最後に、さいごに
 - En gros : 大体、だいたい
 - En premier : はじめに
