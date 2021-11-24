@@ -194,7 +194,21 @@ Tu devrais faire ça (ça serait mieux si...)
 
 ### Ce n’est pas la peine de le faire : -なくてもいいです
 
-## Forme du dictionnaire
+## Style neutre
+
+### Formes
+
+- Présent affirmatif : **forme du dictionnaire**
+- Présent négatif : **-ない**
+- Passé affirmatif : **-た**
+- Passé négatif : **-なかった**
+
+/!\ Exception pour ある :
+
+- ある
+- ない
+- あった
+- なかった
 
 ### Pouvoir faire ça
 
