@@ -3,6 +3,7 @@
 ## Expressions
 
 - Si vous voulez : よかったら
+- À la prochaine : また今度、またこんど
 
 ## Divers
 
