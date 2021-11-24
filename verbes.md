@@ -16,6 +16,8 @@
 - Couper : 切る、きる
 - Courir : 走る、はしる
 - Demander : 聞く、きく (comme entendre)
+- Descendre, tomber : 下がる、さがる
+- Descendre à l'hôtel, dormir chez qqn : 泊まる、とまる
 - Détester :　嫌い、きらい です
 - Devenir : 成る、なる
 - Dire : 言う、いう
@@ -39,6 +41,8 @@
 - Lire : 読む、よむ
 - Manger : 食べる、たべる
 - Marcher : 歩く、あるく
+- Monter, faire une ascension : 登る、上る、のぼる
+- Monter, hausser : 上げる、あげる
 - Mourir : 死ぬ、しぬ
 - Nager : 泳ぐ、およぐ
 - Parler : 話す、はなす
